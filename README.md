@@ -1,4 +1,4 @@
-# phase_acquisition_resources
+# Resources for computational imaging and phase imaging/acquisition
 
 ## Table of Contents:
 -[Research groups/organizations](#groups)
