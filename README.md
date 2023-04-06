@@ -17,5 +17,23 @@
     - [An Pan (Chinese Academy of Sciences)](https://www.sites.google.com/site/dranpanblog/)
     - [Liyong Ren (Shaanxi Normal University)](http://aoi.snnu.edu.cn/)
     - [Ming Lei (Xi'an Jiaotong University)](http://www.opticaltweezers.net/)
+    - [Chao Zuo (Nanjing University of Science and Technology‍)](https://www.scilaboratory.com/)
+    - [Xun Cao (Nanjing University)](https://cite.nju.edu.cn/)
+    - [Peng Xi (Peking University)](https://www.xipenglab.com/)
+    - [Qionghai Dai (Tsinghua University)](http://media.au.tsinghua.edu.cn/)
+    - [Cuifang Kuang (Zhejiang University)](https://person.zju.edu.cn/cfkuang#0)
+    - [Liangcai Cao (Tsinghua University)](http://www.holoddd.com/)
+    - [Min Gu (University of Shanghai for Science and Technology)](http://cain.usst.edu.cn/)
+    - [Zachary J. Smith and Kaiqin Chu (the University of Science and Technology of China)](http://staff.ustc.edu.cn/)
+    - [Cheng Liu (Jiangnan University)](http://science.jiangnan.edu.cn/content_js.jsp?urltype=news.NewsContentUrl&wbtreeid=1034&wbnewsid=5799)
+    - [Zhengjun Liu (Harbin Institute of Technology)](http://homepage.hit.edu.cn/liuzhengjun)
+    - [Liheng Bian (Beijing Institute of Technology)](https://bianlab.github.io/)
+    - [YongKeun Park (Korea Advanced Institute of Science and Technology)](https://bmokaist.wordpress.com/)
+    - Natan T. Shaked (Tel Aviv University) The website is temporarily unavailable
+    
 - **Europe**
+    - [Rainer Heintzmann (Jena University)](https://sites.google.com/site/nanoimagingproject/)
+    - [Christophe Moser (The École polytechnique fédérale de Lausanne)](https://www.epfl.ch/labs/lapd/)
+    - [Michael Unser (The École polytechnique fédérale de Lausanne)](http://bigwww.epfl.ch/)
+    - [Demetri Psaltis (Xi'an Jiaotong University)](https://www.epfl.ch/labs/lo/)
 - **Americas**
