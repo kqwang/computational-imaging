@@ -2,9 +2,66 @@
 
 ## Table of Contents:
 -[Research groups/organizations](#groups)
+-[Companies for computational imaging](#companies)
 
 <a name="groups"></a>
 # Research groups/organizations (In alphabetical order according to surnames)
+    
+- **Americas**
+    - [Charles A. Bouman (Charles A. Bouman)](https://engineering.purdue.edu/~bouman/)  
+    Key words: Computational Imaging and computed tomography etc.
+    
+    - [David J Brady (Duke University)](https://disp.duke.edu/)  
+    Key words: Light field imaging, compressive holography, and computational spectral microscopy etc.
+    
+    - [George Barbastathis (Massachusetts Institute of Technology)](http://optics.mit.edu/)  
+    Key words: Computational imaging, phase imaging, and tomographic imaging etc.
+    
+    - [Ni Chen (University of Arizona)](http://intelligentoptics.org/)  
+    Key words: Holography, phase imaging, and light field imaging etc.
+    
+    - [Oliver Cossairt (Northwestern University)](https://compphotolab.northwestern.edu/)  
+    Key words: Computational imaging, computer vision, and computational displays etc.
+    
+    - [James R. Fienup (University of Rochester)](https://labsites.rochester.edu/fienup/)  
+    Key words: Phase imaging and wavefront sensing etc.
+    
+    - [Jason W. Fleischer (Princeton University)](https://www.princeton.edu/~jasonf/)  
+    Key words: Computational imaging etc.
+    
+    - [Roarke Horstmeyer (Duke University)](http://horstmeyer.pratt.duke.edu/)  
+    Key words: Fourier ptychography, Single-photon detection etc.
+    
+    - [Rongguang Liang (The University of Arizona)](https://wp.optics.arizona.edu/ualiangaol/)  
+    Key words: Computational imaging, optical metrology, and biomedical optical imaging etc.
+    
+    - [Jianwei (John) Miao (University of California, Los Angeles)](https://www.physics.ucla.edu/research/imaging/)  
+    Key words: Coherent diffractive imaging etc.
+    
+    - [Aydogan Ozcan (University of California, Los Angeles)](https://research.seas.ucla.edu/ozcan/)  
+    Key words: Computational imaging, lensless imaging and optical neural network etc.
+    
+    - [Gabriel Popescu (University of Illinois at Urbana-Champaign)](https://light.ece.illinois.edu/)  
+    Key words: Biomedical imaging and phase imaging etc.
+    
+    - [Lei Tian (Boston University)](https://sites.bu.edu/tianlab/)  
+    Key words: Computational imaging etc.
+    
+    - [Ashok Veeraraghavan (Rice University)](https://www.computationalimaging.org/)  
+    Key words: Wavefront sensing, imaging through scattering media, and lensless imaging etc.
+    
+    - [Laura Waller (University of California, Berkeley)](https://www.laurawaller.com/)  
+    Key words: Computational imaging, phase imgaing, lensless imaging etc.
+    
+    - [Gordon Wetzstein (Stanford University)](https://www.computationalimaging.org/)  
+    Key words: Computational imaging, display, and neural rendering systems etc.
+    
+    - [Changhuei Yang (California Institute of Technology)](https://biophot.caltech.edu/)  
+    Key words: Fourier ptychography, wavefront shaping and non-line-of-sight imaging etc.
+    
+    - [Guoan Zheng (University of Connecticut)](https://smartimaging.uconn.edu/)  
+    Key words: Fourier ptychography etc.
+    
 - **Asia**
     - [Liheng Bian (Beijing Institute of Technology)](https://bianlab.github.io/)  
     Key words: Multi-dimensional imaging (spectrum, phase), high-speed imaging, imaging through scattering, and non-imaging sensing etc.
@@ -87,59 +144,11 @@
     
     - [Michael Unser (The École polytechnique fédérale de Lausanne)](http://bigwww.epfl.ch/)  
     Key words: Biomedical imaging etc.
+
+<a name="companies"></a>
+# Companies for computational imaging
     
-- **Americas**
-    - [Charles A. Bouman (Charles A. Bouman)](https://engineering.purdue.edu/~bouman/)  
-    Key words: Computational Imaging and computed tomography etc.
-    
-    - [David J Brady (Duke University)](https://disp.duke.edu/)  
-    Key words: Light field imaging, compressive holography, and computational spectral microscopy etc.
-    
-    - [George Barbastathis (Massachusetts Institute of Technology)](http://optics.mit.edu/)  
-    Key words: Computational imaging, phase imaging, and tomographic imaging etc.
-    
-    - [Ni Chen (University of Arizona)](http://intelligentoptics.org/)  
-    Key words: Holography, phase imaging, and light field imaging etc.
-    
-    - [Oliver Cossairt (Northwestern University)](https://compphotolab.northwestern.edu/)  
-    Key words: Computational imaging, computer vision, and computational displays etc.
-    
-    - [James R. Fienup (University of Rochester)](https://labsites.rochester.edu/fienup/)  
-    Key words: Phase imaging and wavefront sensing etc.
-    
-    - [Jason W. Fleischer (Princeton University)](https://www.princeton.edu/~jasonf/)  
-    Key words: Computational imaging etc.
-    
-    - [Roarke Horstmeyer (Duke University)](http://horstmeyer.pratt.duke.edu/)  
-    Key words: Fourier ptychography, Single-photon detection etc.
-    
-    - [Rongguang Liang (The University of Arizona)](https://wp.optics.arizona.edu/ualiangaol/)  
-    Key words: Computational imaging, optical metrology, and biomedical optical imaging etc.
-    
-    - [Jianwei (John) Miao (University of California, Los Angeles)](https://www.physics.ucla.edu/research/imaging/)  
-    Key words: Coherent diffractive imaging etc.
-    
-    - [Aydogan Ozcan (University of California, Los Angeles)](https://research.seas.ucla.edu/ozcan/)  
-    Key words: Computational imaging, lensless imaging and optical neural network etc.
-    
-    - [Gabriel Popescu (University of Illinois at Urbana-Champaign)](https://light.ece.illinois.edu/)  
-    Key words: Biomedical imaging and phase imaging etc.
-    
-    - [Lei Tian (Boston University)](https://sites.bu.edu/tianlab/)  
-    Key words: Computational imaging etc.
-    
-    - [Ashok Veeraraghavan (Rice University)](https://www.computationalimaging.org/)  
-    Key words: Wavefront sensing, imaging through scattering media, and lensless imaging etc.
-    
-    - [Laura Waller (University of California, Berkeley)](https://www.laurawaller.com/)  
-    Key words: Computational imaging, phase imgaing, lensless imaging etc.
-    
-    - [Gordon Wetzstein (Stanford University)](https://www.computationalimaging.org/)  
-    Key words: Computational imaging, display, and neural rendering systems etc.
-    
-    - [Changhuei Yang (California Institute of Technology)](https://biophot.caltech.edu/)  
-    Key words: Fourier ptychography, wavefront shaping and non-line-of-sight imaging etc.
-    
-    - [Guoan Zheng (University of Connecticut)](https://smartimaging.uconn.edu/)  
-    Key words: Fourier ptychography etc.
+- [Phasics](https://www.phasics.com/)
+- [Phiab](https://phiab.com/)  
+- [Zygo](https://www.zygo.com/)
     
