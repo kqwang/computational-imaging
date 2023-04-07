@@ -11,7 +11,7 @@
     - [Charles A. Bouman (Charles A. Bouman)](https://engineering.purdue.edu/~bouman/)  
     Key words: Computational Imaging and computed tomography etc.
     
-    - [David J Brady (Duke University)](https://disp.duke.edu/)  
+    - [David J. Brady (Duke University)](https://disp.duke.edu/)  
     Key words: Light field imaging, compressive holography, and computational spectral microscopy etc.
     
     - [George Barbastathis (Massachusetts Institute of Technology)](http://optics.mit.edu/)  
@@ -72,7 +72,7 @@
     - [Zachary J. Smith and Kaiqin Chu (the University of Science and Technology of China)](http://staff.ustc.edu.cn/)  
     Key words: Super-resolution microscopy and phase microscopy etc.
     
-    - [WEN CHEN (The Hong Kong Polytechnic University)](https://www.eie.polyu.edu.hk/~wenchen/)  
+    - [Wen Chen (The Hong Kong Polytechnic University)](https://www.eie.polyu.edu.hk/~wenchen/)  
     Key words: Holography and single-pixel imaging etc.
     
     - [Xun Cao (Nanjing University)](https://cite.nju.edu.cn/)  
