@@ -150,16 +150,19 @@
 
 <a name="companies"></a>
 # Companies for computational imaging and phase imaging system
-    
-- [Lyncee Tec](https://www.lynceetec.com/)
-- [Phasics](https://www.phasics.com/)
-- [Phase Holographic Imaging PHI AB](https://phiab.com/)  
-- [Zygo](https://www.zygo.com/)
-- [Nanolive](https://www.nanolive.ch/)
+(In alphabetical order)
+
 - [Holmarc Opto-Mechatronics](https://holmarc.com/)
+- [Lyncee Tec](https://www.lynceetec.com/)
+- [Nanolive](https://www.nanolive.ch/)
+- [Phase Holographic Imaging PHI AB](https://phiab.com/)  
+- [Phasics](https://www.phasics.com/)
+- [Zygo](https://www.zygo.com/)
+
 
 <a name="papers"></a>
 # Review/Tutorial papers
+(In chronological order)
 
 - Y. Shechtman, Y. C. Eldar, O. Cohen, H. N. Chapman, J. Miao, and M. Segev  
 *[Phase Retrieval with Application to Optical Imaging: A contemporary overview](https://doi.org/10.1109/MSP.2014.2352673),*  
