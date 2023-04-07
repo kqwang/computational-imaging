@@ -177,13 +177,25 @@ Optica 6(8), 921 (2019).
 *[Deep learning in holography and coherent imaging](https://doi.org/10.1038/s41377-019-0196-0),*  
 Light Sci. Appl. 8(1), 85 (2019).
 
-- T. Cacace, V. Bianco, and P. Ferraro
+- T. Cacace, V. Bianco, and P. Ferraro  
 *[Quantitative phase imaging trends in biomedical applications](https://doi.org/10.1016/j.optlaseng.2020.106188),*  
 Optics and Lasers in Engineering 135, 106188 (2020).
+
+- C. Zuo, J. Li, J. Sun, Y. Fan, J. Zhang, L. Lu, R. Zhang, B. Wang, L. Huang, and Q. Chen  
+*[Transport of intensity equation: a tutorial](https://doi.org/10.1016/j.optlaseng.2020.106187),*  
+Optics and Lasers in Engineering 106187 (2020).
 
 - T. Zeng, Y. Zhu, and E. Y. Lam  
 *[Deep learning for digital holography: a review](https://doi.org/10.1364/OE.443367),*  
 Opt. Express 29(24), 40572 (2021).
+
+- V. Balasubramani, M. Kujawińska, C. Allier, V. Anand, C.-J. Cheng, C. Depeursinge, N. Hai, S. Juodkazis, J. Kalkman, A. Kuś, M. Lee, P. J. Magistretti, P. Marquet, S. H. Ng, J. Rosen, Y. K. Park, and M. Ziemczonok
+*[Roadmap on Digital Holography-Based Quantitative Phase Imaging](https://doi.org/10.3390/jimaging7120252),*  
+J. Imaging 7(12), 252 (2021).
+
+- B. Javidi, A. Carnicer, A. Anand, G. Barbastathis, W. Chen, P. Ferraro, J. W. Goodman, R. Horisaki, K. Khare, M. Kujawinska, R. A. Leitgeb, P. Marquet, T. Nomura, A. Ozcan, Y. Park, G. Pedrini, P. Picart, J. Rosen, G. Saavedra, N. T. Shaked, A. Stern, E. Tajahuerce, L. Tian, G. Wetzstein, and M. Yamaguchi  
+*[Roadmap on digital holography [Invited]](https://doi.org/10.1364/OE.435915),*  
+Opt. Express 29(22), 35078 (2021).
 
 - C. Zuo, J. Qian, S. Feng, W. Yin, Y. Li, P. Fan, J. Han, K. Qian, and Q. Chen  
 *[Deep learning in optical metrology: a review](https://doi.org/10.1038/s41377-022-00714-x),*  
@@ -208,6 +220,8 @@ IEEE Signal Process. Mag. 40(1), 45–57 (2023).
 - G. Baffou  
 *[Wavefront Microscopy Using Quadriwave Lateral Shearing Interferometry: From Bioimaging to Nanophotonics](https://doi.org/10.1021/acsphotonics.2c01238),*  
 ACS Photonics 10(2), 322–339 (2023).
+
+
 
 
 
