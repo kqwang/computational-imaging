@@ -148,7 +148,10 @@
 <a name="companies"></a>
 # Companies for computational imaging and phase imaging
     
+- [Lyncee Tec](https://www.lynceetec.com/)
 - [Phasics](https://www.phasics.com/)
-- [Phiab](https://phiab.com/)  
+- [Phase Holographic Imaging PHI AB](https://phiab.com/)  
 - [Zygo](https://www.zygo.com/)
+- [Nanolive](https://www.nanolive.ch/)
+- [Holmarc Opto-Mechatronics](https://holmarc.com/)
     
