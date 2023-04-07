@@ -146,7 +146,7 @@
     Key words: Biomedical imaging etc.
 
 <a name="companies"></a>
-# Companies for computational imaging
+# Companies for computational imaging and phase imaging
     
 - [Phasics](https://www.phasics.com/)
 - [Phiab](https://phiab.com/)  
