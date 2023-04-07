@@ -4,6 +4,7 @@
 -[Research groups/organizations](#groups)  
 -[Companies for computational imaging and phase imaging system](#companies)
 -[Review/Tutorial papers](#papers)
+   - [Related to deep learning](#DLpapers)
 
 <a name="groups"></a>
 # Research groups/organizations
@@ -160,22 +161,13 @@
 <a name="papers"></a>
 # Review/Tutorial papers
 
+- Y. Shechtman, Y. C. Eldar, O. Cohen, H. N. Chapman, J. Miao, and M. Segev  
+*[Phase Retrieval with Application to Optical Imaging: A contemporary overview](https://doi.org/10.1109/MSP.2014.2352673),*  
+IEEE Signal Process. Mag. 32(3), 87–109 (2015).
 
-- Y. Park, C. Depeursinge, and G. Popescu,  
+- Y. Park, C. Depeursinge, and G. Popescu  
 *[Quantitative phase imaging in biomedicine](https://doi.org/10.1038/s41566-018-0253-x),*  
 Nature Photon. 12(10), 578–589 (2018).
-
-- Y. Jo, H. Cho, S. Y. Lee, G. Choi, G. Kim, H. Min, and Y. Park  
-*[Quantitative Phase Imaging and Artificial Intelligence: A Review](https://doi.org/10.1109/JSTQE.2018.2859234),*  
-IEEE J. Select. Topics Quantum Electron. 25(1), 1–14 (2019).
-
-- G. Barbastathis, A. Ozcan, and G. Situ  
-*[On the use of deep learning for computational imaging](https://doi.org/10.1364/OPTICA.6.000921),*  
-Optica 6(8), 921 (2019).
-
-- Y. Rivenson, Y. Wu, and A. Ozcan  
-*[Deep learning in holography and coherent imaging](https://doi.org/10.1038/s41377-019-0196-0),*  
-Light Sci. Appl. 8(1), 85 (2019).
 
 - T. Cacace, V. Bianco, and P. Ferraro  
 *[Quantitative phase imaging trends in biomedical applications](https://doi.org/10.1016/j.optlaseng.2020.106188),*  
@@ -189,10 +181,6 @@ J. Opt. 22(12), 123002 (2020).
 *[Transport of intensity equation: a tutorial](https://doi.org/10.1016/j.optlaseng.2020.106187),*  
 Optics and Lasers in Engineering 106187 (2020).
 
-- T. Zeng, Y. Zhu, and E. Y. Lam  
-*[Deep learning for digital holography: a review](https://doi.org/10.1364/OE.443367),*  
-Opt. Express 29(24), 40572 (2021).
-
 - V. Balasubramani, M. Kujawińska, C. Allier, V. Anand, C.-J. Cheng, C. Depeursinge, N. Hai, S. Juodkazis, J. Kalkman, A. Kuś, M. Lee, P. J. Magistretti, P. Marquet, S. H. Ng, J. Rosen, Y. K. Park, and M. Ziemczonok  
 *[Roadmap on Digital Holography-Based Quantitative Phase Imaging](https://doi.org/10.3390/jimaging7120252),*  
 J. Imaging 7(12), 252 (2021).
@@ -201,17 +189,40 @@ J. Imaging 7(12), 252 (2021).
 *[Roadmap on digital holography [Invited]](https://doi.org/10.1364/OE.435915),*  
 Opt. Express 29(22), 35078 (2021).
 
-- C. Zuo, J. Qian, S. Feng, W. Yin, Y. Li, P. Fan, J. Han, K. Qian, and Q. Chen  
-*[Deep learning in optical metrology: a review](https://doi.org/10.1038/s41377-022-00714-x),*  
-Light Sci. Appl. 11(1), 39 (2022).
+- V. Petrov, A. Pogoda, V. Sementin, A. Sevryugin, E. Shalymov, D. Venediktov, and V. Venediktov  
+*[Advances in Digital Holographic Interferometry](https://doi.org/10.3390/jimaging8070196),*  
+J. Imaging 8(7), 196 (2022).
 
 - T. L. Nguyen, S. Pradeep, R. L. Judson-Torres, J. Reed, M. A. Teitell, and T. A. Zangle  
 *[Quantitative Phase Imaging: Recent Advances and Expanding Potential in Biomedicine](https://doi.org/10.1021/acsnano.1c11507),*  
 ACS Nano 16(8), 11516–11544 (2022).
 
-- V. Petrov, A. Pogoda, V. Sementin, A. Sevryugin, E. Shalymov, D. Venediktov, and V. Venediktov  
-*[Advances in Digital Holographic Interferometry](https://doi.org/10.3390/jimaging8070196),*  
-J. Imaging 8(7), 196 (2022).
+- G. Baffou  
+*[Wavefront Microscopy Using Quadriwave Lateral Shearing Interferometry: From Bioimaging to Nanophotonics](https://doi.org/10.1021/acsphotonics.2c01238),*  
+ACS Photonics 10(2), 322–339 (2023).
+
+<a name="DLpapers"></a>
+## Related to deep learning
+
+- Y. Jo, H. Cho, S. Y. Lee, G. Choi, G. Kim, H. Min, and Y. Park  
+*[Quantitative Phase Imaging and Artificial Intelligence: A Review](https://doi.org/10.1109/JSTQE.2018.2859234),*  
+IEEE J. Select. Topics Quantum Electron. 25(1), 1–14 (2019).
+
+- G. Barbastathis, A. Ozcan, and G. Situ  
+*[On the use of deep learning for computational imaging](https://doi.org/10.1364/OPTICA.6.000921),*  
+Optica 6(8), 921 (2019).
+
+- Y. Rivenson, Y. Wu, and A. Ozcan  
+*[Deep learning in holography and coherent imaging](https://doi.org/10.1038/s41377-019-0196-0),*  
+Light Sci. Appl. 8(1), 85 (2019).
+
+- T. Zeng, Y. Zhu, and E. Y. Lam  
+*[Deep learning for digital holography: a review](https://doi.org/10.1364/OE.443367),*  
+Opt. Express 29(24), 40572 (2021).
+
+- C. Zuo, J. Qian, S. Feng, W. Yin, Y. Li, P. Fan, J. Han, K. Qian, and Q. Chen  
+*[Deep learning in optical metrology: a review](https://doi.org/10.1038/s41377-022-00714-x),*  
+Light Sci. Appl. 11(1), 39 (2022).
 
 - G. Situ  
 *[Deep holography](https://doi.org/10.37188/lam.2022.013),*  
@@ -220,12 +231,4 @@ Light Advanced Manufacturing 3(2), 1 (2022).
 - J. Dong, L. Valzania, A. Maillard, T. Pham, S. Gigan, and M. Unser  
 *[Phase Retrieval: From Computational Imaging to Machine Learning: A tutorial](https://doi.org/10.1109/MSP.2022.3219240),*  
 IEEE Signal Process. Mag. 40(1), 45–57 (2023).
-
-- G. Baffou  
-*[Wavefront Microscopy Using Quadriwave Lateral Shearing Interferometry: From Bioimaging to Nanophotonics](https://doi.org/10.1021/acsphotonics.2c01238),*  
-ACS Photonics 10(2), 322–339 (2023).
-
-
-
-
 
