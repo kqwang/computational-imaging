@@ -2,7 +2,7 @@
 
 ## Table of Contents:
 -[Research groups/organizations](#groups)  
--[Companies for computational imaging](#companies)
+-[Companies for computational imaging and phase imaging system](#companies)
 
 <a name="groups"></a>
 # Research groups/organizations (In alphabetical order according to surnames)
@@ -146,7 +146,7 @@
     Key words: Biomedical imaging etc.
 
 <a name="companies"></a>
-# Companies for computational imaging and phase imaging
+# Companies for computational imaging and phase imaging system
     
 - [Lyncee Tec](https://www.lynceetec.com/)
 - [Phasics](https://www.phasics.com/)
