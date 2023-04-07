@@ -1,7 +1,7 @@
 # Resources for computational imaging and phase imaging/acquisition
 
 ## Table of Contents:
--[Research groups/organizations](#groups)
+-[Research groups/organizations](#groups)  
 -[Companies for computational imaging](#companies)
 
 <a name="groups"></a>
