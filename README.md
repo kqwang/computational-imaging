@@ -189,7 +189,7 @@ Optics and Lasers in Engineering 106187 (2020).
 *[Deep learning for digital holography: a review](https://doi.org/10.1364/OE.443367),*  
 Opt. Express 29(24), 40572 (2021).
 
-- V. Balasubramani, M. Kujawińska, C. Allier, V. Anand, C.-J. Cheng, C. Depeursinge, N. Hai, S. Juodkazis, J. Kalkman, A. Kuś, M. Lee, P. J. Magistretti, P. Marquet, S. H. Ng, J. Rosen, Y. K. Park, and M. Ziemczonok
+- V. Balasubramani, M. Kujawińska, C. Allier, V. Anand, C.-J. Cheng, C. Depeursinge, N. Hai, S. Juodkazis, J. Kalkman, A. Kuś, M. Lee, P. J. Magistretti, P. Marquet, S. H. Ng, J. Rosen, Y. K. Park, and M. Ziemczonok  
 *[Roadmap on Digital Holography-Based Quantitative Phase Imaging](https://doi.org/10.3390/jimaging7120252),*  
 J. Imaging 7(12), 252 (2021).
 
