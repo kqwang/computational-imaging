@@ -192,6 +192,10 @@ J. Imaging 7(12), 252 (2021).
 *[Roadmap on digital holography [Invited]](https://doi.org/10.1364/OE.435915),*  
 Opt. Express 29(22), 35078 (2021).
 
+- G. Zheng, C. Shen, S. Jiang, P. Song, and C. Yang  
+*[Concept, implementations and applications of Fourier ptychography](https://doi.org/10.1038/s42254-021-00280-y),*  
+Nat. Rev. Phys. 3(3), 207–223 (2021).
+
 - V. Petrov, A. Pogoda, V. Sementin, A. Sevryugin, E. Shalymov, D. Venediktov, and V. Venediktov  
 *[Advances in Digital Holographic Interferometry](https://doi.org/10.3390/jimaging8070196),*  
 J. Imaging 8(7), 196 (2022).
