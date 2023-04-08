@@ -2,7 +2,7 @@
 
 ## Table of Contents:
 -[Research groups/organizations](#groups)  
--[Companies for computational imaging and phase imaging system](#companies)
+-[Companies for computational imaging and phase imaging system](#companies)  
 -[Review/Tutorial papers](#papers)
    - [Related to deep learning](#DLpapers)
 
@@ -152,12 +152,12 @@
 # Companies for computational imaging and phase imaging system
 (In alphabetical order)
 
-- [Holmarc Opto-Mechatronics](https://holmarc.com/)
-- [Lyncee Tec](https://www.lynceetec.com/)
-- [Nanolive](https://www.nanolive.ch/)
+- [Holmarc Opto-Mechatronics](https://holmarc.com/)  
+- [Lyncee Tec](https://www.lynceetec.com/)  
+- [Nanolive](https://www.nanolive.ch/)  
 - [Phase Holographic Imaging PHI AB](https://phiab.com/)  
-- [Phasics](https://www.phasics.com/)
-- [Zygo](https://www.zygo.com/)
+- [Phasics](https://www.phasics.com/)  
+- [Zygo](https://www.zygo.com/)  
 
 
 <a name="papers"></a>
