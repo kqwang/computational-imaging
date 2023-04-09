@@ -172,6 +172,10 @@ IEEE Signal Process. Mag. 32(3), 87–109 (2015).
 *[Quantitative phase imaging in biomedicine](https://doi.org/10.1038/s41566-018-0253-x),*  
 Nature Photon. 12(10), 578–589 (2018).
 
+- J. N. Mait, G. W. Euliss, and R. A. Athale  
+*[Computational imaging](https://doi.org/10.1364/AOP.10.000409),*  
+Adv. Opt. Photon. 10(2), 409 (2018).
+
 - T. Cacace, V. Bianco, and P. Ferraro  
 *[Quantitative phase imaging trends in biomedical applications](https://doi.org/10.1016/j.optlaseng.2020.106188),*  
 Optics and Lasers in Engineering 135, 106188 (2020).
@@ -227,9 +231,17 @@ Light Sci. Appl. 8(1), 85 (2019).
 *[Deep learning for digital holography: a review](https://doi.org/10.1364/OE.443367),*  
 Opt. Express 29(24), 40572 (2021).
 
+- J. Suo, W. Zhang, J. Gong, X. Yuan, D. J. Brady, and Q. Dai  
+*[Computational Imaging and Artificial Intelligence: The Next Revolution of Mobile Vision](https://doi.org/10.48550/arXiv.2109.08880),*  
+ArXiv, abs/2109.08880. (2021).
+
 - C. Zuo, J. Qian, S. Feng, W. Yin, Y. Li, P. Fan, J. Han, K. Qian, and Q. Chen  
 *[Deep learning in optical metrology: a review](https://doi.org/10.1038/s41377-022-00714-x),*  
 Light Sci. Appl. 11(1), 39 (2022).
+
+- D. Mengu, M. S. Sakib Rahman, Y. Luo, J. Li, O. Kulce, and A. Ozcan  
+*[At the intersection of optics and deep learning: statistical inference, computing, and inverse design](https://doi.org/10.1364/aop.450345),*  
+Adv. Opt. Photon. 14(2), 209 (2022).
 
 - G. Situ  
 *[Deep holography](https://doi.org/10.37188/lam.2022.013),*  
@@ -238,4 +250,5 @@ Light Advanced Manufacturing 3(2), 1 (2022).
 - J. Dong, L. Valzania, A. Maillard, T. Pham, S. Gigan, and M. Unser  
 *[Phase Retrieval: From Computational Imaging to Machine Learning: A tutorial](https://doi.org/10.1109/MSP.2022.3219240),*  
 IEEE Signal Process. Mag. 40(1), 45–57 (2023).
+
 
