@@ -231,6 +231,10 @@ Light Sci. Appl. 8(1), 85 (2019).
 *[Deep learning for digital holography: a review](https://doi.org/10.1364/OE.443367),*  
 Opt. Express 29(24), 40572 (2021).
 
+- L. Zhou, H. Yu, Y. Lan, and  m. Xing  
+*[Artificial Intelligence In Interferometric Synthetic Aperture Radar Phase Unwrapping: A Review](https://doi.org/10.1109/MGRS.2021.3065811),*  
+IEEE Geosci. Remote Sens. Mag. 2–20 (2021).
+
 - J. Suo, W. Zhang, J. Gong, X. Yuan, D. J. Brady, and Q. Dai  
 *[Computational Imaging and Artificial Intelligence: The Next Revolution of Mobile Vision](https://doi.org/10.48550/arXiv.2109.08880),*  
 ArXiv, abs/2109.08880. (2021).
@@ -238,6 +242,10 @@ ArXiv, abs/2109.08880. (2021).
 - C. Zuo, J. Qian, S. Feng, W. Yin, Y. Li, P. Fan, J. Han, K. Qian, and Q. Chen  
 *[Deep learning in optical metrology: a review](https://doi.org/10.1038/s41377-022-00714-x),*  
 Light Sci. Appl. 11(1), 39 (2022).
+
+- Y. Guo, L. Zhong, L. Min, J. Wang, Y. Wu, K. Chen, K. Wei, C. Rao  
+*[Adaptive optics based on machine learning: a review](https://doi.org/10.37188/lam.2022.013),*  
+Opto-Electronic Advances 5(7), 200082–200082 (2022).
 
 - D. Mengu, M. S. Sakib Rahman, Y. Luo, J. Li, O. Kulce, and A. Ozcan  
 *[At the intersection of optics and deep learning: statistical inference, computing, and inverse design](https://doi.org/10.1364/aop.450345),*  
@@ -247,8 +255,11 @@ Adv. Opt. Photon. 14(2), 209 (2022).
 *[Deep holography](https://doi.org/10.37188/lam.2022.013),*  
 Light Advanced Manufacturing 3(2), 1 (2022).
 
+- K. Wang, Q. Kemao, J. Di, and J. Zhao  
+*[Deep learning spatial phase unwrapping: a comparative review](https://doi.org/10.1117/1.APN.1.1.014001),*  
+Adv. Photon. Nexus 1(1), 014001 (2022).
+
 - J. Dong, L. Valzania, A. Maillard, T. Pham, S. Gigan, and M. Unser  
 *[Phase Retrieval: From Computational Imaging to Machine Learning: A tutorial](https://doi.org/10.1109/MSP.2022.3219240),*  
 IEEE Signal Process. Mag. 40(1), 45–57 (2023).
-
 
