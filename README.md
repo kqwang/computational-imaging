@@ -176,6 +176,7 @@
 - [Nanolive](https://www.nanolive.ch/)  
 - [Phase Holographic Imaging PHI AB](https://phiab.com/)  
 - [Phasics](https://www.phasics.com/)  
+- [Phi Optics](https://phioptics.com/)  
 - [Zygo](https://www.zygo.com/)  
 
 
