@@ -35,6 +35,9 @@
     - [Roarke Horstmeyer ](http://horstmeyer.pratt.duke.edu/)(Duke University)  
     Key words: Fourier ptychography, single-photon detection etc.
     
+    - [Mariano Rivera ](https://www.cimat.mx/~mrivera/mr.html)(Centro de Investigación en Matemáticas AC, Mexico )  
+    Key words: fringe analysis etc.
+    
     - [Rongguang Liang ](https://wp.optics.arizona.edu/ualiangaol/)(The University of Arizona)  
     Key words: computational imaging, optical metrology, and biomedical optical imaging etc.
     
@@ -109,7 +112,7 @@
     Key words:  computational imaging etc.
     
     - [An Pan ](https://www.sites.google.com/site/dranpanblog/)(Chinese Academy of Sciences)  
-    Key words:  biomedical imaging etc.
+    Key words: biomedical imaging etc.
     
     - [Ting-Chung Poon ](https://sites.google.com/vt.edu/oshandholographiclab/home/)(Virginia Polytechnic Institute and State University)  
     Key words: holography etc.
@@ -117,11 +120,14 @@
     - [YongKeun Park ](https://bmokaist.wordpress.com/)(Korea Advanced Institute of Science and Technology)  
     Key words: phase imaging etc.
     
+    - [Kemao Qian ](https://www3.ntu.edu.sg/home/mkmqian/)(Nanyang Technological University)  
+    Key words: fringe analysis etc.
+    
     - [Liyong Ren ](http://aoi.snnu.edu.cn/)(Shaanxi Normal University)  
     Key words: polarimetric imaging etc.
     
-    - Natan T. Shaked (Tel Aviv University) The website is temporarily unavailable  
-    Key words:  etc.
+    - Natan T. Shaked (Tel Aviv University) Homepage: http://www.eng.tau.ac.il/~omni/  (Looks like it's temporarily unavailable)  
+    Key words: biomedical imaging, interferometry and tomography etc.
     
     - [Peter Wai Ming Tsang ](https://scholars.cityu.edu.hk/en/persons/wai-ming-peter-tsang(892d3f89-71e1-4348-9bd0-c27f242c0d00).html)(City University of Hong Kong)  
     Key words: holography etc.
@@ -137,10 +143,11 @@
     
 - **Europe**
 
-
-
     - [Balpreet Singh Ahluwalia ](https://en.uit.no/ansatte/person?p_document_id=44202)(UiT The Arctic University of Norway)  
     Key words: biomedical imaging and super-resolution imaging etc.
+    
+    - [Maxime Jacquot ](https://www.femto-st.fr/en/femto-people/maximejacquot)(Université Bourgogne Franche-Comté)  
+    Key words: holography etc.
     
     - [Rainer Heintzmann ](https://sites.google.com/site/nanoimagingproject/)(Jena University)  
     Key words: biomedical imaging and super-resolution imaging etc.
