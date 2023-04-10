@@ -69,6 +69,10 @@
     Key words: Fourier ptychography etc.
     
 - **Asia**
+
+    - [Anand Asundi ](https://www.doptron.com/)(https://www.doptron.com/)  
+    Key words: optical 3D measurement and imaging etc.
+    
     - [Liheng Bian ](https://bianlab.github.io/)(Beijing Institute of Technology)  
     Key words: multi-dimensional imaging (spectrum, phase), high-speed imaging, imaging through scattering, and non-imaging sensing etc.
     
@@ -186,6 +190,7 @@
 # Companies
 (In alphabetical order)
 
+- [d'Optron](https://www.doptron.com/) 
 - [Holmarc Opto-Mechatronics](https://holmarc.com/)  
 - [Lyncee Tec](https://www.lynceetec.com/)  
 - [Nanolive](https://www.nanolive.ch/)  
