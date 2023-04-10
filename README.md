@@ -2,7 +2,7 @@
 
 ## Table of Contents:
 -[Research groups/organizations](#groups)  
--[Companies for computational imaging and phase imaging](#companies)  
+-[Companies](#companies)  
 -[Review/Tutorial papers](#papers)
    - [Related to deep learning](#DLpapers)
 
@@ -183,7 +183,7 @@
     Key words: biomedical imaging etc.
 
 <a name="companies"></a>
-# Companies for computational imaging and phase imaging
+# Companies
 (In alphabetical order)
 
 - [Holmarc Opto-Mechatronics](https://holmarc.com/)  
