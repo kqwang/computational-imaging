@@ -70,7 +70,7 @@
     
 - **Asia**
 
-    - [Anand Asundi ](https://www.doptron.com/)    
+    - [Anand Asundi ](https://www.doptron.com/)(d'Optron Pte Ltd)   
     Key words: optical 3D measurement and imaging etc.
     
     - [Liheng Bian ](https://bianlab.github.io/)(Beijing Institute of Technology)  
