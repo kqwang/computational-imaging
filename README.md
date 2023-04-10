@@ -132,6 +132,9 @@
     - [Liyong Ren ](http://aoi.snnu.edu.cn/)(Shaanxi Normal University)  
     Key words: polarimetric imaging etc.
     
+    - [Guohai Situ ](https://people.ucas.edu.cn/~situ)(University of Chinese Academy of Sciences)  
+    Key words: computational imaging, phase imaging, single-pixel imaging and holography etc.
+    
     - Natan T. Shaked (Tel Aviv University) Homepage: http://www.eng.tau.ac.il/~omni/  (Looks like it's temporarily unavailable)  
     Key words: biomedical imaging, interferometry and tomography etc.
     
@@ -140,6 +143,9 @@
     
     - [Peng Xi ](https://www.xipenglab.com/)(Peking University)  
     Key words: optical nanoscopy, confocal and multiphoton microscopy etc.
+    
+    - [Baoli Yao ](https://people.ucas.ac.cn/~yaobaoli?language=en)(University of Chinese Academy of Sciences)  
+    Key words: super-resolution imaging and holography etc.
     
     - [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology‍)  
     Key words: computational imaging and phase imaging etc.
