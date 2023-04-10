@@ -123,6 +123,9 @@
     - [Kemao Qian ](https://www3.ntu.edu.sg/home/mkmqian/)(Nanyang Technological University)  
     Key words: fringe analysis etc.
     
+    - [Joseph Rosen ](https://www.ee.bgu.ac.il/~rosen/)(Ben-Gurion University of the Negev)  
+    Key words: Holography etc.
+    
     - [Liyong Ren ](http://aoi.snnu.edu.cn/)(Shaanxi Normal University)  
     Key words: polarimetric imaging etc.
     
@@ -177,8 +180,8 @@
 - [Phase Holographic Imaging PHI AB](https://phiab.com/)  
 - [Phasics](https://www.phasics.com/)  
 - [Phi Optics](https://phioptics.com/)  
+- [Pictorlabs](https://pictorlabs.ai/)
 - [Zygo](https://www.zygo.com/)  
-
 
 <a name="papers"></a>
 # Review/Tutorial papers
