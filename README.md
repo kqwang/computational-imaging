@@ -100,6 +100,9 @@
     - [Peng Gao ](https://faculty.xidian.edu.cn/GP3/zh_CN/index.htm)(Xidian University)  
     Key words: super-resolution imaging, phase imaging, and light field imaging etc.
     
+    - [Wolfgang Heidrich ](https://vccimaging.org/)(King Abdullah University of Science and Technology)  
+    Key words: computational imaging and display etc.
+    
     - [Cuifang Kuang ](https://person.zju.edu.cn/cfkuang#0)(Zhejiang University)  
     Key words:  super-resolution imaging etc.
     
@@ -116,13 +119,16 @@
     Key words: phase imaging etc.
     
     - [Zhengjun Liu ](http://homepage.hit.edu.cn/liuzhengjun)(Harbin Institute of Technology)  
-    Key words:  computational imaging etc.
+    Key words: computational imaging etc.
     
     - [An Pan ](https://www.sites.google.com/site/dranpanblog/)(Chinese Academy of Sciences)  
     Key words: biomedical imaging etc.
     
     - [Ting-Chung Poon ](https://sites.google.com/vt.edu/oshandholographiclab/home/)(Virginia Polytechnic Institute and State University)  
     Key words: holography etc.
+    
+    - [Yifan (Evan) Peng ](https://www.eee.hku.hk/~evanpeng/)(The University of Hong Kong)  
+    Key words: computational imaging and holography etc.
     
     - [YongKeun Park ](https://bmokaist.wordpress.com/)(Korea Advanced Institute of Science and Technology)  
     Key words: phase imaging etc.
