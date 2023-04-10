@@ -148,7 +148,7 @@
     Key words: computational imaging and holography etc.
     
     - [Renjie Zhou ](https://www.renjiezhou.com/)(The Chinese University of Hong Kong)  
-    Key words: Biomedical imaging and phase imaging etc.
+    Key words: biomedical imaging and phase imaging etc.
     
 - **Europe**
 
