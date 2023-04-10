@@ -296,7 +296,7 @@ ArXiv, abs/2109.08880. (2021).
 *[Deep learning in optical metrology: a review](https://doi.org/10.1038/s41377-022-00714-x),*  
 Light Sci. Appl. 11(1), 39 (2022).
 
-- Y. Guo, L. Zhong, L. Min, J. Wang, Y. Wu, K. Chen, K. Wei, C. Rao  
+- Y. Guo, L. Zhong, L. Min, J. Wang, Y. Wu, K. Chen, K. Wei, and C. Rao  
 *[Adaptive optics based on machine learning: a review](https://doi.org/10.37188/lam.2022.013),*  
 Opto-Electronic Advances 5(7), 200082–200082 (2022).
 
