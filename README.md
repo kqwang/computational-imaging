@@ -2,7 +2,7 @@
 
 ## Table of Contents:
 -[Research groups/organizations](#groups)  
--[Companies for computational imaging and phase imaging(#companies)  
+-[Companies for computational imaging and phase imaging](#companies)  
 -[Review/Tutorial papers](#papers)
    - [Related to deep learning](#DLpapers)
 
