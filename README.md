@@ -148,6 +148,9 @@
     - Natan T. Shaked (Tel Aviv University) Homepage: http://www.eng.tau.ac.il/~omni/  (Looks like it's temporarily unavailable)  
     Key words: biomedical imaging, interferometry and tomography etc.
     
+    - [Xiaopeng Shao ](https://web.xidian.edu.cn/xpshao/)(Xidian University)  
+    Key words: computational imaging and imaging through scattering media etc.
+    
     - [Peter Wai Ming Tsang ](https://scholars.cityu.edu.hk/en/persons/wai-ming-peter-tsang(892d3f89-71e1-4348-9bd0-c27f242c0d00).html)(City University of Hong Kong)  
     Key words: holography etc.
     
