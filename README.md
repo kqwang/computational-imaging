@@ -124,7 +124,7 @@
     Key words: fringe analysis etc.
     
     - [Joseph Rosen ](https://www.ee.bgu.ac.il/~rosen/)(Ben-Gurion University of the Negev)  
-    Key words: Holography etc.
+    Key words: holography etc.
     
     - [Liyong Ren ](http://aoi.snnu.edu.cn/)(Shaanxi Normal University)  
     Key words: polarimetric imaging etc.
