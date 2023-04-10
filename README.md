@@ -145,6 +145,9 @@
     - [Demetri Psaltis ](https://www.epfl.ch/labs/lo/)(The École polytechnique fédérale de Lausanne)  
     Key words: Holography, imaging through scattering media, and linear and non-linear multimode fibers etc.
     
+    - [Pascal PICART ](http://perso.univ-lemans.fr/~ppicart/rech/perso/BooksPP.html)(Le Mans Université)  
+    Key words: Holography and phase imaging etc.
+    
     - [Michael Unser ](http://bigwww.epfl.ch/)(The École polytechnique fédérale de Lausanne)  
     Key words: Biomedical imaging etc.
 
