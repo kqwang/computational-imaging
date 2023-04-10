@@ -84,6 +84,9 @@
     - [Xun Cao ](https://cite.nju.edu.cn/)(Nanjing University)  
     Key words: computational spectral video camera, 3D capture and reconstruction, and super resolution camera etc.
     
+    - [Jianglei Di ](https://www.researchgate.net/profile/Jianglei-Di)(GuangDong University of Technology)  
+    Key words: computational imaging and holography etc.  
+    
     - [Qionghai Dai ](http://media.au.tsinghua.edu.cn/)(Tsinghua University)  
     Key words: computational imaging and biomedical imaging etc.
     
@@ -100,7 +103,7 @@
     Key words:  phase imaging etc.
     
     - [Edmund Y. Lam ](https://www.eee.hku.hk/~elam/)(The University of Hong Kong)  
-    Key words:  computational imaging and holography etc.  
+    Key words: computational imaging and holography etc.  
     
     - [Ming Lei ](http://www.opticaltweezers.net/)(Xi'an Jiaotong University)  
     Key words: super-resolution imaging and optical trapping etc.  
@@ -139,7 +142,10 @@
     Key words: optical nanoscopy, confocal and multiphoton microscopy etc.
     
     - [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology‍)  
-    Key words: Computational imaging and phase imaging etc.
+    Key words: computational imaging and phase imaging etc.
+    
+    - [Jianlin Zhao ](https://teacher.nwpu.edu.cn/m/en/1982000067.html)(Northwestern Polytechnical University)  
+    Key words: computational imaging and holography etc.
     
     - [Renjie Zhou ](https://www.renjiezhou.com/)(The Chinese University of Hong Kong)  
     Key words: Biomedical imaging and phase imaging etc.
@@ -164,7 +170,7 @@
     - [Demetri Psaltis ](https://www.epfl.ch/labs/lo/)(The École polytechnique fédérale de Lausanne)  
     Key words: holography, imaging through scattering media, and linear and non-linear multimode fibers etc.
     
-    - [Pascal PICART ](http://perso.univ-lemans.fr/~ppicart/rech/perso/BooksPP.html)(Le Mans Université)  
+    - [Pascal Picart ](http://perso.univ-lemans.fr/~ppicart/rech/perso/BooksPP.html)(Le Mans Université)  
     Key words: holography and phase imaging etc.
     
     - [Michael Unser ](http://bigwww.epfl.ch/)(The École polytechnique fédérale de Lausanne)  
