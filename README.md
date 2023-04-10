@@ -17,7 +17,7 @@
     - [David J. Brady ](https://disp.duke.edu/) (Duke University)  
     Key words: light field imaging, compressive holography, and computational spectral microscopy etc.
     
-    - [George Barbastathis )](http://optics.mit.edu/)(Massachusetts Institute of Technology)  
+    - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)  
     Key words: computational imaging, phase imaging, and tomographic imaging etc.
     
     - [Ni Chen ](http://intelligentoptics.org/)(University of Arizona)  
