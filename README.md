@@ -176,6 +176,9 @@
     - [Balpreet Singh Ahluwalia ](https://en.uit.no/ansatte/person?p_document_id=44202)(UiT The Arctic University of Norway)  
     Key words: biomedical imaging and super-resolution imaging etc.
     
+    - [Kishan Dholakia ](https://opticalmanipulationgroup.wp.st-andrews.ac.uk/)(The University of St Andrews)  
+    Key words: computational imaging, light sheet microscopy, and speckle metrology etc.
+    
     - [Maxime Jacquot ](https://www.femto-st.fr/en/femto-people/maximejacquot)(Université Bourgogne Franche-Comté)  
     Key words: holography etc.
     
