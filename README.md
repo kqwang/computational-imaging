@@ -3,7 +3,7 @@
 ## Table of Contents:
 -[Research groups/organizations](#groups)  
 -[Companies](#companies)  
--[Workshops](#workshops)  
+-[Workshops](#workshops)(open source)   
 -[Review/Tutorial papers](#papers)
    - [Related to deep learning](#DLpapers)
 
@@ -231,7 +231,7 @@
 - [Zygo](https://www.zygo.com/)  
 
 <a name="workshops"></a>
-# Workshops
+# Workshops (open source)
 (In chronological order)
 
 - ["Computational Microscopy (A long program)"](http://www.ipam.ucla.edu/programs/long-programs/computational-microscopy/?tab=overview)in IPAM (SEPTEMBER 12 - DECEMBER 16, 2022)
