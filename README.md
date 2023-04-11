@@ -3,7 +3,7 @@
 ## Table of Contents:
 -[Research groups/organizations](#groups)  
 -[Companies](#companies)  
--[Workshops (video or slides available)](#workshops)
+-[Workshops](#workshops)(video or slides available)
 -[Review/Tutorial papers](#papers)
    - [Related to deep learning](#DLpapers)
 
