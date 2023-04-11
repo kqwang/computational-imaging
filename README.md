@@ -11,14 +11,14 @@
 (In alphabetical order according to surnames)
     
 - **Americas**
+    - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)  
+    Key words: computational imaging, phase imaging, and tomographic imaging etc.
+    
     - [Charles A. Bouman ](https://engineering.purdue.edu/~bouman/) (Purdue University)    
     Key words: computational Imaging and computed tomography etc.
     
     - [David J. Brady ](https://disp.duke.edu/) (Duke University)  
     Key words: light field imaging, compressive holography, and computational spectral microscopy etc.
-    
-    - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)  
-    Key words: computational imaging, phase imaging, and tomographic imaging etc.
     
     - [Ni Chen ](http://intelligentoptics.org/)(University of Arizona)  
     Key words: holography, phase imaging, and light field imaging etc.
@@ -34,10 +34,7 @@
     
     - [Roarke Horstmeyer ](http://horstmeyer.pratt.duke.edu/)(Duke University)  
     Key words: Fourier ptychography, single-photon detection etc.
-    
-    - [Mariano Rivera ](https://www.cimat.mx/~mrivera/mr.html)(Centro de Investigación en Matemáticas AC, Mexico )  
-    Key words: fringe analysis etc.
-    
+
     - [Rongguang Liang ](https://wp.optics.arizona.edu/ualiangaol/)(The University of Arizona)  
     Key words: computational imaging, optical metrology, and biomedical optical imaging etc.
     
@@ -50,6 +47,8 @@
     - [Gabriel Popescu ](https://light.ece.illinois.edu/)(University of Illinois at Urbana-Champaign)  
     Key words: biomedical imaging and phase imaging etc.
     
+    - [Mariano Rivera ](https://www.cimat.mx/~mrivera/mr.html)(Centro de Investigación en Matemáticas AC, Mexico )  
+    Key words: fringe analysis etc.
     - [Lei Tian ](https://sites.bu.edu/tianlab/)(Boston University)  
     Key words: computational imaging etc.
     
@@ -79,26 +78,26 @@
     - [Liangcai Cao ](http://www.holoddd.com/)(Tsinghua University)  
     Key words: holography etc.
     
-    - [Zachary J. Smith and Kaiqin Chu ](http://staff.ustc.edu.cn/)(the University of Science and Technology of China)  
-    Key words: super-resolution microscopy and phase microscopy etc.
+    - [Xun Cao ](https://cite.nju.edu.cn/)(Nanjing University)  
+    Key words: computational spectral video camera, 3D capture and reconstruction, and super resolution camera etc.
     
     - [Wen Chen ](https://www.eie.polyu.edu.hk/~wenchen/)(The Hong Kong Polytechnic University)  
     Key words: holography and single-pixel imaging etc.
     
-    - [Xun Cao ](https://cite.nju.edu.cn/)(Nanjing University)  
-    Key words: computational spectral video camera, 3D capture and reconstruction, and super resolution camera etc.
-    
-    - [Jianglei Di ](https://www.researchgate.net/profile/Jianglei-Di)(GuangDong University of Technology)  
-    Key words: computational imaging and holography etc.  
+    - [Zachary J. Smith and Kaiqin Chu ](http://staff.ustc.edu.cn/)(the University of Science and Technology of China)  
+    Key words: super-resolution microscopy and phase microscopy etc.
     
     - [Qionghai Dai ](http://media.au.tsinghua.edu.cn/)(Tsinghua University)  
     Key words: computational imaging and biomedical imaging etc.
     
-    - [Min Gu ](http://cain.usst.edu.cn/)(University of Shanghai for Science and Technology)  
-    Key words: optogenetics, microscopic imaging, super-resolution imaging, and optical neural network etc.
+    - [Jianglei Di ](https://www.researchgate.net/profile/Jianglei-Di)(GuangDong University of Technology)  
+    Key words: computational imaging and holography etc.  
     
     - [Peng Gao ](https://faculty.xidian.edu.cn/GP3/zh_CN/index.htm)(Xidian University)  
     Key words: super-resolution imaging, phase imaging, and light field imaging etc.
+    
+    - [Min Gu ](http://cain.usst.edu.cn/)(University of Shanghai for Science and Technology)  
+    Key words: optogenetics, microscopic imaging, super-resolution imaging, and optical neural network etc.
     
     - [Wolfgang Heidrich ](https://vccimaging.org/)(King Abdullah University of Science and Technology)  
     Key words: computational imaging and display etc.
@@ -106,50 +105,53 @@
     - [Cuifang Kuang ](https://person.zju.edu.cn/cfkuang#0)(Zhejiang University)  
     Key words:  super-resolution imaging etc.
     
-    - [Cheng Liu ](http://science.jiangnan.edu.cn/content_js.jsp?urltype=news.NewsContentUrl&wbtreeid=1034&wbnewsid=5799)(Jiangnan University)  
-    Key words:  phase imaging etc.
-    
     - [Edmund Y. Lam ](https://www.eee.hku.hk/~elam/)(The University of Hong Kong)  
     Key words: computational imaging and holography etc.  
     
     - [Ming Lei ](http://www.opticaltweezers.net/)(Xi'an Jiaotong University)  
-    Key words: super-resolution imaging and optical trapping etc.  
+    Key words: super-resolution imaging and optical trapping etc. 
     
-    - [Yuan Luo ](https://optics.mc.ntu.edu.tw/)(National Taiwan University)  
-    Key words: phase imaging etc.
+    - [Cheng Liu ](http://science.jiangnan.edu.cn/content_js.jsp?urltype=news.NewsContentUrl&wbtreeid=1034&wbnewsid=5799)(Jiangnan University)  
+    Key words:  phase imaging etc.   
     
     - [Zhengjun Liu ](http://homepage.hit.edu.cn/liuzhengjun)(Harbin Institute of Technology)  
     Key words: computational imaging etc.
     
+    - [Yuan Luo ](https://optics.mc.ntu.edu.tw/)(National Taiwan University)  
+    Key words: phase imaging etc.  
+    
+    - [Dalip Singh Mehta ](https://web.iitd.ac.in/~mehtads/)(Indian Institute of Technology Delhi)  
+    Key words: phase imaging and holograohy etc. 
+    
     - [An Pan ](https://www.sites.google.com/site/dranpanblog/)(Chinese Academy of Sciences)  
     Key words: biomedical imaging etc.
     
-    - [Ting-Chung Poon ](https://sites.google.com/vt.edu/oshandholographiclab/home/)(Virginia Polytechnic Institute and State University)  
-    Key words: holography etc.
+    - [YongKeun Park ](https://bmokaist.wordpress.com/)(Korea Advanced Institute of Science and Technology)  
+    Key words: biomedical imaging and phase imaging etc
     
     - [Yifan (Evan) Peng ](https://www.eee.hku.hk/~evanpeng/)(The University of Hong Kong)  
     Key words: computational imaging and holography etc.
     
-    - [YongKeun Park ](https://bmokaist.wordpress.com/)(Korea Advanced Institute of Science and Technology)  
-    Key words: phase imaging etc.
+    - [Ting-Chung Poon ](https://sites.google.com/vt.edu/oshandholographiclab/home/)(Virginia Polytechnic Institute and State University)  
+    Key words: holography etc.
     
     - [Kemao Qian ](https://www3.ntu.edu.sg/home/mkmqian/)(Nanyang Technological University)  
     Key words: fringe analysis etc.
     
-    - [Joseph Rosen ](https://www.ee.bgu.ac.il/~rosen/)(Ben-Gurion University of the Negev)  
-    Key words: holography etc.
-    
     - [Liyong Ren ](http://aoi.snnu.edu.cn/)(Shaanxi Normal University)  
     Key words: polarimetric imaging etc.
     
-    - [Guohai Situ ](https://people.ucas.edu.cn/~situ)(University of Chinese Academy of Sciences)  
-    Key words: computational imaging, phase imaging, single-pixel imaging and holography etc.
-    
+    - [Joseph Rosen ](https://www.ee.bgu.ac.il/~rosen/)(Ben-Gurion University of the Negev)  
+    Key words: holography etc.
+
     - Natan T. Shaked (Tel Aviv University) Homepage: http://www.eng.tau.ac.il/~omni/  (Looks like it's temporarily unavailable)  
     Key words: biomedical imaging, interferometry and tomography etc.
     
     - [Xiaopeng Shao ](https://web.xidian.edu.cn/xpshao/)(Xidian University)  
     Key words: computational imaging and imaging through scattering media etc.
+    
+    - [Guohai Situ ](https://people.ucas.edu.cn/~situ)(University of Chinese Academy of Sciences)  
+    Key words: computational imaging, phase imaging, single-pixel imaging and holography etc.
     
     - [Peter Wai Ming Tsang ](https://scholars.cityu.edu.hk/en/persons/wai-ming-peter-tsang(892d3f89-71e1-4348-9bd0-c27f242c0d00).html)(City University of Hong Kong)  
     Key words: holography etc.
@@ -160,14 +162,14 @@
     - [Baoli Yao ](https://people.ucas.ac.cn/~yaobaoli?language=en)(University of Chinese Academy of Sciences)  
     Key words: super-resolution imaging and holography etc.
     
-    - [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology‍)  
-    Key words: computational imaging and phase imaging etc.
-    
     - [Jianlin Zhao ](https://teacher.nwpu.edu.cn/m/en/1982000067.html)(Northwestern Polytechnical University)  
     Key words: computational imaging and holography etc.
     
     - [Renjie Zhou ](https://www.renjiezhou.com/)(The Chinese University of Hong Kong)  
     Key words: biomedical imaging and phase imaging etc.
+    
+    - [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology‍)  
+    Key words: computational imaging and phase imaging etc.
     
 - **Europe**
 
