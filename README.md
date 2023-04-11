@@ -246,7 +246,8 @@
 - ["EE367 / CS448I: Computational Imaging"](https://icerm.brown.edu/programs/sp-s19/w2/) in Stanford University  
 - ["ECE 495: Cameras, Images, and Statistical Inverse Problems"](https://engineering.purdue.edu/ChanGroup/ECE495.html) in Purdue University  
 - ["CS 6475: Computational Photography"](https://omscs.gatech.edu/cs-6475-computational-photography) in Georgia Institute of Technology, [Videos](https://omscs.gatech.edu/cs-6475-computational-photography-course-videos)  
-- ["CSCI 1290: Computational Photography and Image Manipulation"](https://cs.brown.edu/courses/csci1290/) in Brown University
+- ["CSCI 1290: Computational Photography and Image Manipulation"](https://cs.brown.edu/courses/csci1290/) in Brown University  
+- ["GAMES204-Computational Imaging(计算成像)"](https://space.bilibili.com/512313464/channel/collectiondetail?sid=526752)(in Chinese) in GAMES  
 
 <a name="papers"></a>
 # Review/Tutorial papers
