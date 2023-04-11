@@ -3,6 +3,7 @@
 ## Table of Contents:
 -[Research groups/organizations](#groups)  
 -[Companies](#companies)  
+-[Workshops](#workshops)  
 -[Review/Tutorial papers](#papers)
    - [Related to deep learning](#DLpapers)
 
@@ -31,10 +32,13 @@
     
     - [Jason W. Fleischer ](https://www.princeton.edu/~jasonf/)(Princeton University)  
     Key words: computational imaging etc.
-    
+    	
+    - [Paul Hand ](https://khoury.northeastern.edu/home/hand/)(Northeastern University)  
+    Key words: inverse problem and phase retrieval etc.
+
     - [Roarke Horstmeyer ](http://horstmeyer.pratt.duke.edu/)(Duke University)  
     Key words: Fourier ptychography, single-photon detection etc.
-
+   
     - [Rongguang Liang ](https://wp.optics.arizona.edu/ualiangaol/)(The University of Arizona)  
     Key words: computational imaging, optical metrology, and biomedical optical imaging etc.
     
@@ -49,6 +53,10 @@
     
     - [Mariano Rivera ](https://www.cimat.mx/~mrivera/mr.html)(Centro de Investigación en Matemáticas AC, Mexico )  
     Key words: fringe analysis etc.
+    
+    - [Ju Sun ](https://glovex.umn.edu/)(University of Minnesota)  
+    Key words: inverse problem and phase retrieval etc.
+    
     - [Lei Tian ](https://sites.bu.edu/tianlab/)(Boston University)  
     Key words: computational imaging etc.
     
@@ -179,6 +187,9 @@
     - [Balpreet Singh Ahluwalia ](https://en.uit.no/ansatte/person?p_document_id=44202)(UiT The Arctic University of Norway)  
     Key words: biomedical imaging and super-resolution imaging etc.
     
+    - [Radim Chmelik ](https://www.vut.cz/en/people/radim-chmelik-2190)(Brno University of Technology)  
+    Key words: phase imaging and holography etc.
+    
     - [Kishan Dholakia ](https://opticalmanipulationgroup.wp.st-andrews.ac.uk/)(The University of St Andrews)  
     Key words: computational imaging, light sheet microscopy, and speckle metrology etc.
     
@@ -215,7 +226,18 @@
 - [Phasics](https://www.phasics.com/)  
 - [Phi Optics](https://phioptics.com/)  
 - [Pictorlabs](https://pictorlabs.ai/)
+- [Telight](https://telight.eu/)
+- [Tomocube](https://www.tomocube.com/)
 - [Zygo](https://www.zygo.com/)  
+
+<a name="workshops"></a>
+# Workshops
+(In chronological order)
+
+- ["Computational Microscopy (A long program)"](http://www.ipam.ucla.edu/programs/long-programs/computational-microscopy/?tab=overview)in IPAM (SEPTEMBER 12 - DECEMBER 16, 2022)
+   - ["Computational Microscopy Tutorials" ](http://www.ipam.ucla.edu/programs/workshops/computational-microscopy-tutorials/)(September 13-16, 2022)
+   - ["Diffractive Imaging with Phase Retrieval"  ](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/)(October 10-14, 2022)
+   
 
 <a name="papers"></a>
 # Review/Tutorial papers
