@@ -1,11 +1,15 @@
 # Resources for computational imaging and phase imaging/acquisition
 
 ## Table of Contents:
--[Research groups/organizations](#groups)  
--[Companies](#companies)  
--[Workshops](#workshops)(video or slides available)  
--[Courses](#courses)  
--[Review/Tutorial papers](#papers)  
+- [Research groups/organizations](#groups)  
+
+- [Companies](#companies)  
+
+- [Workshops](#workshops)(video or slides available)  
+
+- [Courses](#courses)  
+
+- [Review/Tutorial papers](#papers)  
    - [Related to deep learning](#DLpapers)
 
 <a name="groups"></a>
