@@ -83,6 +83,9 @@
     
     - [Wen Chen ](https://www.eie.polyu.edu.hk/~wenchen/)(The Hong Kong Polytechnic University)  
     Key words: holography and single-pixel imaging etc.
+
+    - [Chau-Jern Cheng ](https://scholar.lib.ntnu.edu.tw/en/persons/chau-jern-cheng)(National Taiwan Normal University)  
+    Key words: holography etc.
     
     - [Zachary J. Smith and Kaiqin Chu ](http://staff.ustc.edu.cn/)(the University of Science and Technology of China)  
     Key words: super-resolution microscopy and phase microscopy etc.
