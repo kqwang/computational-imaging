@@ -4,7 +4,8 @@
 -[Research groups/organizations](#groups)  
 -[Companies](#companies)  
 -[Workshops](#workshops)(video or slides available)  
--[Review/Tutorial papers](#papers)
+-[Courses](#courses)  
+-[Review/Tutorial papers](#papers)  
    - [Related to deep learning](#DLpapers)
 
 <a name="groups"></a>
@@ -234,11 +235,18 @@
 # Workshops (video or slides available)
 (In chronological order)
 
-- ["Computational Imaging)"](https://icerm.brown.edu/programs/sp-s19/w2/) in ICERM (Mar 18 - 22, 2019)  
-- ["Computational Microscopy (A long program)"](http://www.ipam.ucla.edu/programs/long-programs/computational-microscopy/?tab=overview) in IPAM (September 12 - December 16, 2022)
+- ["Computational Imaging"](https://icerm.brown.edu/programs/sp-s19/w2/) in ICERM (Mar 18 - 22, 2019)  
+- ["Computational Microscopy"](http://www.ipam.ucla.edu/programs/long-programs/computational-microscopy/?tab=overview) in IPAM (September 12 - December 16, 2022)
    - ["Computational Microscopy Tutorials" ](http://www.ipam.ucla.edu/programs/workshops/computational-microscopy-tutorials/)(September 13-16, 2022)
    - ["Diffractive Imaging with Phase Retrieval"  ](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/)(October 10-14, 2022)
+   
+<a name="courses"></a>
+# Courses
 
+- ["EE367 / CS448I: Computational Imaging"](https://icerm.brown.edu/programs/sp-s19/w2/) in Stanford University  
+- ["ECE 495: Cameras, Images, and Statistical Inverse Problems"](https://engineering.purdue.edu/ChanGroup/ECE495.html) in Purdue University  
+- ["CS 6475: Computational Photography"](https://omscs.gatech.edu/cs-6475-computational-photography) in Georgia Institute of Technology, [Videos](https://omscs.gatech.edu/cs-6475-computational-photography-course-videos)  
+- ["CSCI 1290: Computational Photography and Image Manipulation"](https://cs.brown.edu/courses/csci1290/) in Brown University
 
 <a name="papers"></a>
 # Review/Tutorial papers
