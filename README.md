@@ -496,7 +496,7 @@ IEEE Signal Process. Mag. 40(1), 45–57 (2023).
 You are welcome to add or modify some content (categories or lists, etc.) via the ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).  
 
 Please use the following guidelines:
-- Edit with [Markdown](https://www.markdownguide.org/).
+- Edit the raw file with [Markdown](https://www.markdownguide.org/).
 - Avoid typos.
 - Don't add what's already there.
 - Uniform the new publications format.
