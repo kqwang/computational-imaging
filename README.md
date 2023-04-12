@@ -490,7 +490,8 @@ IEEE Signal Process. Mag. 40(1), 45–57 (2023).
 # Contributing
 
 If you want to add or modify some content (categories or lists, etc.), you are welcome to contribute via the ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).  
+
 Please use the following guidelines:
--Avoid typos.
--Don't add to what's already there.
--Note the order of new additions (chronological and alphabetical).
+- Avoid typos.
+- Don't add to what's already there.
+- Note the order of new additions (chronological and alphabetical).
