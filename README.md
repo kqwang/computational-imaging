@@ -1,15 +1,15 @@
-# Resources for computational imaging and phase imaging/acquisition
+# Resources for computational imaging and phase acquisition / imaging
 
 ## Table of Contents:
-- [Research groups/organizations](#groups)  
-
+- [Research groups/organizations](#groups)
+   
 - [Companies](#companies)  
 
 - [Workshops](#workshops)(video or slides available)  
 
 - [Courses](#courses)  
 
-- [Review/Tutorial papers](#papers)  
+- [Review / Tutorial papers](#papers)  
    - [Related to deep learning](#DLpapers)
 
 <a name="groups"></a>
@@ -20,9 +20,18 @@
     - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)  
     Key words: computational imaging, phase imaging, and tomographic imaging etc.
     
-    - [Charles A. Bouman ](https://engineering.purdue.edu/~bouman/) (Purdue University)    
+    - [Moungi Bawendi ](https://nanocluster.mit.edu/)(Massachusetts Institute of Technology)  
+    Key words: biomedical imaging etc.
+    
+    - [Stephen Boppart ](https://biophotonics.illinois.edu/)(University of Illinois Urbana-Champaign)    
+    Key words: biomedical imaging and optical coherence tomography etc.
+    
+    - [Charles A. Bouman ](https://engineering.purdue.edu/~bouman/)(Purdue University)    
     Key words: computational Imaging and computed tomography etc.
     
+    - [Katherine (Katie) L. Bouman ](https://computationalcameras.org/)(California Institute of Technology)  
+    Key words: computational imaging and "Event Horizon Telescope" etc. 
+       
     - [David J. Brady ](https://disp.duke.edu/) (Duke University)  
     Key words: light field imaging, compressive holography, and computational spectral microscopy etc.
     
@@ -40,9 +49,21 @@
     	
     - [Paul Hand ](https://khoury.northeastern.edu/home/hand/)(Northeastern University)  
     Key words: inverse problem and phase retrieval etc.
-
+    
+    - [Felix Heide ](https://light.princeton.edu/)(Princeton University)  
+    Key words: computational imaging, non-line-of-sight imaging, and time-of-flight imaging etc.
+   
     - [Roarke Horstmeyer ](http://horstmeyer.pratt.duke.edu/)(Duke University)  
-    Key words: Fourier ptychography, single-photon detection etc.
+    Key words: Fourier ptychography and single-photon detection etc.
+      
+    - [Joseph A. Izatt ](http://biophotonics.pratt.duke.edu/)(Duke University)  
+    Key words: biomedical imaging, optical coherence tomography and high-resolution imaging etc.
+      
+   - [Dongkyun Kang ](https://wp.optics.arizona.edu/dkang/)(University of Arizona)  
+    Key words: biomedical imaging, confocal Microscopy, and epifluorescence microscopy etc. 
+      
+   - [Marc Levoy ](http://graphics.stanford.edu/~levoy/)(Stanford University)  
+    Key words: computational photography and light-fields imaging etc.
    
     - [Rongguang Liang ](https://wp.optics.arizona.edu/ualiangaol/)(The University of Arizona)  
     Key words: computational imaging, optical metrology, and biomedical optical imaging etc.
@@ -50,14 +71,35 @@
     - [Jianwei (John) Miao ](https://www.physics.ucla.edu/research/imaging/)(University of California, Los Angeles)  
     Key words: coherent diffractive imaging etc.
     
+    - [Ren Ng ](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html)(University of California, Berkeley)  
+    Key words: Computational photography etc.
+    
     - [Aydogan Ozcan ](https://research.seas.ucla.edu/ozcan/)(University of California, Los Angeles)  
     Key words: computational imaging, lensless imaging and optical neural network etc.
+    
+    - [Leilei Peng ](https://wp.optics.arizona.edu/lpeng/)(University of Arizona)  
+    Key words: biomedical imaging and super-resolution imaging etc.
     
     - [Gabriel Popescu ](https://light.ece.illinois.edu/)(University of Illinois at Urbana-Champaign)  
     Key words: biomedical imaging and phase imaging etc.
     
-    - [Mariano Rivera ](https://www.cimat.mx/~mrivera/mr.html)(Centro de Investigación en Matemáticas AC, Mexico )  
+    - [Ramesh  Raskar ](http://cameraculture.media.mit.edu/)(Massachusetts Institute of Technology)  
+    Key words: computational imaging and photography etc.	
+      
+    - [Mariano Rivera ](https://www.cimat.mx/~mrivera/mr.html)(Centro de Investigación en Matemáticas AC, Mexico)  
     Key words: fringe analysis etc.
+     
+    - [Jannick Rolland ](http://www.odalab-spectrum.org/)(University of Rochester)  
+    Key words: biomedical imaging, multispectral imaging, multiphoton imaging, and Polarization imaging etc.
+    
+    - [Travis Sawyer ](https://wp.optics.arizona.edu/tsawyer/)(University of Arizona)  
+    Key words: biomedical imaging, multispectral imaging, multiphoton imaging, and Polarization imaging etc.
+    
+    - [Peter So ](https://web.mit.edu/solab/)(Massachusetts Institute of Technology)  
+    Key words: biomedical imaging etc.
+    
+    - [Aswin Sankaranarayanan ](https://imaging.cs.cmu.edu/)(Carnegie Mellon University)  
+    Key words: computational imaging etc. 
     
     - [Ju Sun ](https://glovex.umn.edu/)(University of Minnesota)  
     Key words: inverse problem and phase retrieval etc.
@@ -71,12 +113,25 @@
     - [Laura Waller ](https://www.laurawaller.com/)(University of California, Berkeley)  
     Key words: computational imaging, phase imgaing, lensless imaging etc.
     
+    - [Lihong Wang ](http://coilab.caltech.edu/)(California Institute of Technology)  
+    Key words: biomedical imaging etc.
+    
+    - [Adam P. Wax ](http://bios.bme.duke.edu/)(Duke University)  
+    Key words: biomedical imaging, optical spectroscopy, and interferometry etc.
+    
     - [Gordon Wetzstein ](https://www.computationalimaging.org/)(Stanford University)  
-    Key words: computational imaging, display, and neural rendering systems etc.
+    Key words: computational imaging and display, and neural rendering systems etc.
+    
+    - [Florian Willomitzer ](https://3dim.northwestern.edu/)(University of Arizona)  
+    Key words: computational imaging and 3D imaging etc.
     
     - [Changhuei Yang ](https://biophot.caltech.edu/)(California Institute of Technology)  
     Key words: Fourier ptychography, wavefront shaping and non-line-of-sight imaging etc.
     
+    - [Sixian You ](https://sixianyou.mit.edu/)(Massachusetts Institute of Technology)  
+    Key words: biomedical imaging etc.
+    
+
     - [Guoan Zheng ](https://smartimaging.uconn.edu/)(University of Connecticut)  
     Key words: Fourier ptychography etc.
     
