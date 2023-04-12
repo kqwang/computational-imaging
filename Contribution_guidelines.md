@@ -1,4 +1,4 @@
-# Contribution Guidelines
+# Contribution guidelines
 
 If you have some content to add or modify, you are welcome to submit a contribution via the "pull request".
 
