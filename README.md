@@ -17,7 +17,7 @@
 (In alphabetical order according to surnames)
     
 - **Americas**
-    - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)  
+    - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)   
     Key words: computational imaging, phase imaging, and tomographic imaging etc.
     
     - [Moungi Bawendi ](https://nanocluster.mit.edu/)(Massachusetts Institute of Technology)  
@@ -50,7 +50,7 @@
     - [Oliver Cossairt ](https://compphotolab.northwestern.edu/)(Northwestern University)  
     Key words: computational imaging, computer vision, and computational displays etc.
     
-    - [Andrew Dunn](https://foil.bme.utexas.edu/)(University of Texas at Austin)
+    - [Andrew Dunn](https://foil.bme.utexas.edu/)(University of Texas at Austin)  
     Key works: biomedical imaging, laser speckle contrast imaging and multiphoton imaging etc.
     
     - [James R. Fienup ](https://labsites.rochester.edu/fienup/)(University of Rochester)  
