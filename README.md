@@ -499,4 +499,4 @@ Please use the following guidelines:
 - Avoid typos.
 - Don't add to what's already there.
 - Newly added publications follow the format above.
-- Note the order of new additions (chronological and alphabetical).
+- Note the order of new additions (chronological or alphabetical).
