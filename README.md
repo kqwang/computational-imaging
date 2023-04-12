@@ -381,7 +381,8 @@ Key words: biomedical imaging etc.
 # Workshops (video or slides available)
 (In chronological order)
 
-- ["Computational Imaging"](https://icerm.brown.edu/programs/sp-s19/w2/) in ICERM (Mar 18 - 22, 2019)  
+- ["Computational Imaging"](https://icerm.brown.edu/programs/sp-s19/w2/) in ICERM (March 18 - 22, 2019)  
+- ["Phase Retrieval"](https://www.bioxfel.org/phase-retrieval-2021) in BioXFEL (October 18 - 19, 2021)  
 - ["Computational Microscopy"](http://www.ipam.ucla.edu/programs/long-programs/computational-microscopy/?tab=overview) in IPAM (September 12 - December 16, 2022)
    - ["Computational Microscopy Tutorials" ](http://www.ipam.ucla.edu/programs/workshops/computational-microscopy-tutorials/)(September 13-16, 2022)
    - ["Diffractive Imaging with Phase Retrieval"  ](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/)(October 10-14, 2022)
