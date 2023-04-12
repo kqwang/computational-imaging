@@ -2,9 +2,9 @@
 
 ## Table of Contents:
 - [Research groups/organizations](#groups)
-   - [Related to deep learning](#groups-Americas)
-   - [Related to deep learning](#groups-Aisa)
-   - [Related to deep learning](#groups-Europ)
+   - [Americas](#groups-Americas)
+   - [Aisa](#groups-Aisa)
+   - [Europe](#groups-Europe)
 
 - [Companies](#companies)  
 
