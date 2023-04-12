@@ -10,7 +10,7 @@
 
 - [Workshops](#workshops) (video or slides available)  
 
-- [Courses](#courses)  
+- [Courses](#courses) (video or slides available)  
 
 - [Review/Tutorial papers](#papers)  
    - [Related to deep learning](#DLpapers)
@@ -374,7 +374,7 @@ Key words: biomedical imaging etc.
    - ["Diffractive Imaging with Phase Retrieval"  ](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/)(October 10-14, 2022)
    
 <a name="courses"></a>
-# Courses
+# Courses (video or slides available)
 
 - ["EE367 / CS448I: Computational Imaging"](https://icerm.brown.edu/programs/sp-s19/w2/) in Stanford University  
 - ["ECE 495: Cameras, Images, and Statistical Inverse Problems"](https://engineering.purdue.edu/ChanGroup/ECE495.html) in Purdue University  
