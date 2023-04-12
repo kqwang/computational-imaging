@@ -11,6 +11,8 @@
 
 - [Review / Tutorial papers](#papers)  
    - [Related to deep learning](#DLpapers)
+   
+- [Contributing](#contributing)
 
 <a name="groups"></a>
 # Research groups/organizations
@@ -483,3 +485,8 @@ Adv. Photon. Nexus 1(1), 014001 (2022).
 *[Phase Retrieval: From Computational Imaging to Machine Learning: A tutorial](https://doi.org/10.1109/MSP.2022.3219240),*  
 IEEE Signal Process. Mag. 40(1), 45–57 (2023).
 
+
+<a name="contributing"></a>
+# Contributing
+Please see [CONTRIBUTING](https://github.com/uzh-rpg/event-based_vision_resources/blob/master/Contributing.md) for details.
+***
