@@ -3,7 +3,7 @@
 ## Table of Contents:
 - [Research groups/organizations](#groups)
    - [Americas](#groups-Americas)
-   - [Aisa](#groups-Aisa)
+   - [Asia](#groups-Asia)
    - [Europe](#groups-Europe)
 
 - [Companies](#companies)  
@@ -21,7 +21,7 @@
 # Research groups/organizations
 (In alphabetical order according to surnames)
     
-<a name="Americas"></a>
+<a name="groups-Americas"></a>
 ## Americas
 - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)   
 Key words: computational imaging, phase imaging, and tomographic imaging etc.
