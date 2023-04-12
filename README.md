@@ -1,6 +1,8 @@
 # Resources for computational imaging and phase acquisition/imaging
-
+****
 ## Table of Contents:
+- [Contributing](#contributing)
+
 - [Research groups/organizations](#groups)
    - [Americas](#groups-Americas)
    - [Asia](#groups-Asia)
@@ -13,9 +15,20 @@
 - [Courses](#courses) (video or slides available)  
 
 - [Review/Tutorial papers](#papers)  
-   - [Related to deep learning](#DLpapers)
+   - [Related to deep learning](#DLpapers)        
+****
    
-- [Contributing](#contributing)
+<a name="contributing"></a>
+# Contributing
+
+You are welcome to add or modify some content (categories or lists, etc.) via the ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).  
+
+Please use the following guidelines:
+- Edit the raw file with [Markdown](https://www.markdownguide.org/).
+- Avoid typos.
+- Don't add what's already there.
+- Uniform the new publications format.
+- Note the order of new additions (chronological or alphabetical).   
 
 <a name="groups"></a>
 # Research groups/organizations
@@ -488,16 +501,3 @@ Adv. Photon. Nexus 1(1), 014001 (2022).
 - J. Dong, L. Valzania, A. Maillard, T. Pham, S. Gigan, and M. Unser  
 *[Phase Retrieval: From Computational Imaging to Machine Learning: A tutorial](https://doi.org/10.1109/MSP.2022.3219240),*  
 IEEE Signal Process. Mag. 40(1), 45–57 (2023).
-
-
-<a name="contributing"></a>
-# Contributing
-
-You are welcome to add or modify some content (categories or lists, etc.) via the ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).  
-
-Please use the following guidelines:
-- Edit the raw file with [Markdown](https://www.markdownguide.org/).
-- Avoid typos.
-- Don't add what's already there.
-- Uniform the new publications format.
-- Note the order of new additions (chronological or alphabetical).
