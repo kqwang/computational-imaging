@@ -331,6 +331,9 @@ Key words: computational imaging, light sheet microscopy, and speckle metrology 
 - [‪Daniele Faccio](https://www.physics.gla.ac.uk/XtremeLight/)(University of Glasgow)  
 Key words: computational imaging, ghost imaging and imaging through scattering media etc.
 
+- [‪Hans-Werner Fink](https://www.physik.uzh.ch/groups/fink/)(University of Zurich)  
+Key words: electron holography etc.
+
 - [Maxime Jacquot ](https://www.femto-st.fr/en/femto-people/maximejacquot)(Université Bourgogne Franche-Comté)  
 Key words: holography etc.
 
@@ -354,6 +357,9 @@ Key words: holography and phase imaging etc.
 
 - [Carola Bibiane Schönlieb ](https://www.damtp.cam.ac.uk/research/cia/)(University of Cambridge)  
 Key words: biomedical imaging and computed tomography etc.
+
+- [Latychevskaia Tatiana ](https://coherentimaging.wordpress.com/)(University of Zurich)  
+Key words: holography, phase retrieval and coherent diffractive imaging etc.
 
 - [Ilaria Testa ](https://www.testalab.org/)(KTH Royal Institute of Technology)  
 Key words: biomedical imaging and super-resolution imaging etc.
