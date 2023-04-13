@@ -81,6 +81,9 @@ Key words: computational imaging etc.
 - [Paul Hand ](https://khoury.northeastern.edu/home/hand/)(Northeastern University)  
 Key words: inverse problem and phase retrieval etc.
 
+- [Babak Hassibi ](https://www.ee.caltech.edu/people/hassibi)(California Institute of Technology)  
+Key words: phase retrieval etc.
+
 - [Felix Heide ](https://light.princeton.edu/)(Princeton University)  
 Key words: computational imaging, non-line-of-sight imaging, and time-of-flight imaging etc.
 
