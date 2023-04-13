@@ -15,7 +15,11 @@
 - [Courses](#courses) (video or slides available)  
 
 - [Review/Tutorial papers](#papers)  
-   - [Related to deep learning](#DLpapers)        
+   - [Computational imaging](#CPpapers)   
+   - [Computational imaging & deep learning](#DLpapers)       
+ 
+- [Dissertations & Theses](#DT)  
+
 ****
    
 <a name="contributing"></a>
@@ -409,6 +413,9 @@ Key words: biomedical imaging etc.
 # Review/Tutorial papers
 (In chronological order)
 
+<a name="CPpaper"></a>
+## Computational imaging
+
 - Y. Shechtman, Y. C. Eldar, O. Cohen, H. N. Chapman, J. Miao, and M. Segev  
 *[Phase Retrieval with Application to Optical Imaging: A contemporary overview](https://doi.org/10.1109/MSP.2014.2352673),*  
 IEEE Signal Process. Mag. 32(3), 87–109 (2015).
@@ -466,7 +473,7 @@ ACS Nano 16(8), 11516–11544 (2022).
 ACS Photonics 10(2), 322–339 (2023).
 
 <a name="DLpapers"></a>
-## Related to deep learning
+## Computational imaging & deep learning
 
 - Y. Jo, H. Cho, S. Y. Lee, G. Choi, G. Kim, H. Min, and Y. Park  
 *[Quantitative Phase Imaging and Artificial Intelligence: A Review](https://doi.org/10.1109/JSTQE.2018.2859234),*  
@@ -515,3 +522,53 @@ Adv. Photon. Nexus 1(1), 014001 (2022).
 - J. Dong, L. Valzania, A. Maillard, T. Pham, S. Gigan, and M. Unser  
 *[Phase Retrieval: From Computational Imaging to Machine Learning: A tutorial](https://doi.org/10.1109/MSP.2022.3219240),*  
 IEEE Signal Process. Mag. 40(1), 45–57 (2023).
+
+<a name="DT"></a>
+# Dissertations & Theses
+(In chronological order)
+
+- George Barbastathis,  
+*[Intelligent holographic databases](https://resolver.caltech.edu/CaltechETD:etd-03172008-142604)*,  
+Ph.D. Thesis, California Institute of Technology, 1997. [PDF](https://thesis.library.caltech.edu/986/1/Barbastathis_g_1998.pdf)  
+
+- Edmund Y. Lam,  
+*[Image restoration algorithms for monochrome digital photography](https://www.proquest.com/dissertations-theses/image-restoration-algorithms-monochrome-digital/docview/304626365/se-2?accountid=14548)*,  
+Ph.D. Thesis, Stanford University, 2000. 
+
+- Changhuei Yang,  
+*[Harmonic phase based low coherence interferometry : a method for studying the dynamics and structures of cells](http://hdl.handle.net/1721.1/28242)*,  
+Ph.D. Thesis, Massachusetts Institute of Technology, 2002. [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/28242/50547882-MIT.pdf)  
+
+- Gabriel Popescu,  
+*[Propagation of low-coherence fields in inhomogeneous media](https://stars.library.ucf.edu/rtd/1647)*,  
+Ph.D. Thesis, University of Central Florida, 2002.  
+
+- Aydogan Ozcan,  
+*[Non-destructive Characterization Tools Based on Spectral Interferometry and Minimum Phase Functions](https://www.proquest.com/dissertations-theses/non-destructive-characterization-tools-based-on/docview/305443539/se-2?accountid=14548)*,  
+Ph.D. Thesis, Stanford University, 2005.  
+
+- Laura Waller,
+*[Computational phase imaging based on intensity transport](http://hdl.handle.net/1721.1/60821)*,
+Ph.D. Thesis, Massachusetts Institute of Technology, 2010.  [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/60821/696796127-MIT.pdf)
+
+- Guoan Zheng,
+*[Innovations in Imaging System Design: Gigapixel, Chip-Scale and MultiFunctional Microscopy](https://resolver.caltech.edu/CaltechTHESIS:10102012-101657790)*,
+Ph.D. Thesis, California Institute of Technology, 2012.  [PDF](https://thesis.library.caltech.edu/7234/4/Zheng_Guoan_Final_Thesis_12_17_2012.pdf)
+
+- YongKeun Park,
+*[Pathophysiology of human red blood cell probed by quantitative phase microscopy](http://hdl.handle.net/1721.1/58092)*,
+Ph.D. Thesis, Massachusetts Institute of Technology, 2013.  [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/58092/656250904-MIT.pdf)
+
+- Lei Tian,
+*[Compressive phase retrieval](http://hdl.handle.net/1721.1/81756)*,
+Ph.D. Thesis, Massachusetts Institute of Technology, 2013.  [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/81756/860986128-MIT.pdf)
+
+- Renjie Zhou,
+*[Interferometric light microscopy for wafer defect inspection and three-dimensional object reconstruction](https://hdl.handle.net/2142/72977)*,
+Ph.D. Thesis, University of Illinois at Urbana-Champaign, 2013.  [PDF](https://www.ideals.illinois.edu/items/73166/bitstreams/193614/object?dl=1)
+
+- Shuai Li,  
+*[Computational imaging through deep learning](https://hdl.handle.net/1721.1/122070)*,  
+Ph.D. Thesis, Massachusetts Institute of Technology, 2019.  [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/122070/1117711022-MIT.pdf)
+
+
