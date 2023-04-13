@@ -27,7 +27,7 @@ Please use the following guidelines:
 - Edit the raw file with [Markdown](https://www.markdownguide.org/).
 - Avoid typos.
 - Don't add what's already there.
-- Uniform the new publications format.
+- Uniform the format of new additions with that of the existing.
 - Note the order of new additions (chronological or alphabetical).   
 
 <a name="groups"></a>
