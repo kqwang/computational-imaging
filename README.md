@@ -543,32 +543,32 @@ Ph.D. Thesis, Massachusetts Institute of Technology, 2002. [PDF](https://dspace.
 *[Propagation of low-coherence fields in inhomogeneous media](https://stars.library.ucf.edu/rtd/1647)*,  
 Ph.D. Thesis, University of Central Florida, 2002.  
 
-- Aydogan Ozcan,  
+- Aydogan Ozcan,   
 *[Non-destructive Characterization Tools Based on Spectral Interferometry and Minimum Phase Functions](https://www.proquest.com/dissertations-theses/non-destructive-characterization-tools-based-on/docview/305443539/se-2?accountid=14548)*,  
 Ph.D. Thesis, Stanford University, 2005.  
 
-- Laura Waller,
-*[Computational phase imaging based on intensity transport](http://hdl.handle.net/1721.1/60821)*,
+- Laura Waller,  
+*[Computational phase imaging based on intensity transport](http://hdl.handle.net/1721.1/60821)*,  
 Ph.D. Thesis, Massachusetts Institute of Technology, 2010.  [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/60821/696796127-MIT.pdf)
 
-- Guoan Zheng,
-*[Innovations in Imaging System Design: Gigapixel, Chip-Scale and MultiFunctional Microscopy](https://resolver.caltech.edu/CaltechTHESIS:10102012-101657790)*,
+- Guoan Zheng,  
+*[Innovations in Imaging System Design: Gigapixel, Chip-Scale and MultiFunctional Microscopy](https://resolver.caltech.edu/CaltechTHESIS:10102012-101657790)*,  
 Ph.D. Thesis, California Institute of Technology, 2012.  [PDF](https://thesis.library.caltech.edu/7234/4/Zheng_Guoan_Final_Thesis_12_17_2012.pdf)
 
-- YongKeun Park,
-*[Pathophysiology of human red blood cell probed by quantitative phase microscopy](http://hdl.handle.net/1721.1/58092)*,
+- YongKeun Park,  
+*[Pathophysiology of human red blood cell probed by quantitative phase microscopy](http://hdl.handle.net/1721.1/58092)*,  
 Ph.D. Thesis, Massachusetts Institute of Technology, 2013.  [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/58092/656250904-MIT.pdf)
 
-- Lei Tian,
-*[Compressive phase retrieval](http://hdl.handle.net/1721.1/81756)*,
+- Lei Tian,  
+*[Compressive phase retrieval](http://hdl.handle.net/1721.1/81756)*,  
 Ph.D. Thesis, Massachusetts Institute of Technology, 2013.  [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/81756/860986128-MIT.pdf)
 
-- Renjie Zhou,
-*[Interferometric light microscopy for wafer defect inspection and three-dimensional object reconstruction](https://hdl.handle.net/2142/72977)*,
+- Renjie Zhou,  
+*[Interferometric light microscopy for wafer defect inspection and three-dimensional object reconstruction](https://hdl.handle.net/2142/72977)*,   
 Ph.D. Thesis, University of Illinois at Urbana-Champaign, 2013.  [PDF](https://www.ideals.illinois.edu/items/73166/bitstreams/193614/object?dl=1)
 
 - Shuai Li,  
-*[Computational imaging through deep learning](https://hdl.handle.net/1721.1/122070)*,  
+*[Computational imaging through deep learning](https://hdl.handle.net/1721.1/122070)*,   
 Ph.D. Thesis, Massachusetts Institute of Technology, 2019.  [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/122070/1117711022-MIT.pdf)
 
 
