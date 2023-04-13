@@ -100,6 +100,9 @@ Key words: biomedical imaging, optical coherence tomography and high-resolution 
 - [Na Ji ](https://www.jilab.net/)(University of California Berkeley)  
 Key words: biomedical imaging and super-resolution imaging etc.
 
+- [Ulugbek S. Kamilov ](https://cigroup.wustl.edu/)(Washington University)  
+Key words: computational imaging and biomedical imaging etc. 
+
 - [Dongkyun Kang ](https://wp.optics.arizona.edu/dkang/)(University of Arizona)  
 Key words: biomedical imaging, confocal Microscopy, and epifluorescence microscopy etc. 
 
