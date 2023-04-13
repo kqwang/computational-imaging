@@ -421,6 +421,10 @@ Nature Photon. 12(10), 578–589 (2018).
 *[Computational imaging](https://doi.org/10.1364/AOP.10.000409),*  
 Adv. Opt. Photon. 10(2), 409 (2018).
 
+- T. Latychevskaia 
+*[Iterative phase retrieval for digital holography: tutorial](https://doi.org/10.1364/JOSAA.36.000D31),*  
+J. Opt. Soc. Am. A 36(12), D31 (2019).
+
 - H. Yu, Y. Lan, Z. Yuan, J. Xu, and H. Lee  
 *[Phase Unwrapping in InSAR : A Review](https://doi.org/10.1109/MGRS.2018.2873644),*  
 IEEE Geosci. Remote Sens. Mag. 7(1), 40–58 (2019).
