@@ -79,7 +79,10 @@ Key works: biomedical imaging, laser speckle contrast imaging and multiphoton im
 - [James R. Fienup ](https://labsites.rochester.edu/fienup/)(University of Rochester)  
 Key words: phase imaging and wavefront sensing etc.
 
-- [Jason W. Fleischer ](https://www.princeton.edu/~jasonf/)(Princeton University)  
+- [Jason W. Fleischer ](https://www.princeton.edu/~jasonf/)(Mississippi State University)  
+Key words: computational imaging and compressive learning etc.
+
+- [Ali Cafer Gurbuz](https://my.ece.msstate.edu/faculty/gurbuz/)(Princeton University)  
 Key words: computational imaging etc.
 
 - [Paul Hand ](https://khoury.northeastern.edu/home/hand/)(Northeastern University)  
@@ -134,7 +137,10 @@ Key words: biomedical imaging and super-resolution imaging etc.
 Key words: biomedical imaging and phase imaging etc.
 
 - [Ramesh  Raskar ](http://cameraculture.media.mit.edu/)(Massachusetts Institute of Technology)  
-Key words: computational imaging and photography etc.	
+Key words: computational imaging and photography etc.
+
+- [Saiprasad Ravishankar ](https://sites.google.com/site/sairavishankar3)(Michigan State University)  
+Key words: compressed sensing and computational imaging etc.
 
 - [Mariano Rivera ](https://www.cimat.mx/~mrivera/mr.html)(Centro de Investigación en Matemáticas AC, Mexico)  
 Key words: fringe analysis etc.
@@ -228,6 +234,9 @@ Key words: super-resolution imaging, phase imaging, and light field imaging etc.
 - [Min Gu ](http://cain.usst.edu.cn/)(University of Shanghai for Science and Technology)  
 Key words: optogenetics, microscopic imaging, super-resolution imaging, and optical neural network etc.
 
+- [Raja Giryes ](https://www.giryes.sites.tau.ac.il/)(Tel Aviv University)  
+Key words: inverse problem and computational imaging etc.
+
 - [Wolfgang Heidrich ](https://vccimaging.org/)(King Abdullah University of Science and Technology)  
 Key words: computational imaging and display etc.
 
@@ -300,6 +309,9 @@ Key words: biomedical imaging and photoacoustic imaging etc.
 - [Peter Wai Ming Tsang ](https://scholars.cityu.edu.hk/en/persons/wai-ming-peter-tsang(892d3f89-71e1-4348-9bd0-c27f242c0d00).html)(City University of Hong Kong)  
 Key words: holography etc.
 
+- [Bihan Wen ](https://personal.ntu.edu.sg/bihan.wen/)(Nanyang Technological University)  
+Key words: inverse problem and computational Imaging etc.
+
 - [Yuan Wu ](http://www.bme.cuhk.edu.hk/yuan/)(The Chinese University of Hong Kong)  
 Key words: biomedical imaging and optical coherence tomography etc.
 
@@ -314,6 +326,9 @@ Key words: single-photon imaging etc.
 
 - [Baoli Yao ](https://people.ucas.ac.cn/~yaobaoli?language=en)(University of Chinese Academy of Sciences)  
 Key words: super-resolution imaging and holography etc.
+
+- [Jong Chul Ye](https://bispl.weebly.com/)(Korea Advanced Institute of Science and Technology)  
+Key words: computational imaging, biomedical imaging and magnetic resonance imaging etc.
 
 - [Thomas Yeo ](https://sites.google.com/view/yeolab)(National University of Singapore)  
 Key words: biomedical imaging and magnetic resonance imaging etc.
@@ -578,6 +593,34 @@ Ph.D. Thesis, University of British Columbia, 2018.  [PDF](https://open.library.
 *[Computational imaging through deep learning](https://hdl.handle.net/1721.1/122070)*,   
 Ph.D. Thesis, Massachusetts Institute of Technology, 2019.  [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/122070/1117711022-MIT.pdf)
 
+- Yichen Wu,  
+*[Deep Learning-enabled Computational Imaging in Optical Microscopy and Air Quality Monitoring](https://escholarship.org/uc/item/1249c1bv)*,   
+Ph.D. Thesis, University of California, Los Angeles, 2019.  [PDF](https://escholarship.org/content/qt1249c1bv/qt1249c1bv.pdf?t=pzmaiu)
+
 - Michael Kellman,  
 *[Physics-based Learning for Large-scale Computational Imaging](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-167.html)*,   
 Ph.D. Thesis, University of California, Berkeley, 2020.  [PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-167.pdf)
+
+- Xiaojian Xu,  
+*[Model-based Deep Learning for Computational Imaging](https://doi.org/10.7936/r9e7-ng63)*,   
+Ph.D. Thesis, Washington University, 2022.
+
+- Tairan Liu,  
+*[Deep Learning in Optical Microscopy, Holographic Imaging and Sensing](https://escholarship.org/uc/item/8k03d1g2)*,   
+Ph.D. Thesis, University of California, Los Angeles, 2022. 
+
+- Kristina Monakhova,  
+*[Physics-Informed Machine Learning for Computational Imaging](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-177.html)*,   
+Ph.D. Thesis, University of California, Berkeley, 2022. [pdf](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-177.pdf)
+
+- Calvin Brown,  
+*[Computational Imaging and Sensing in Diagnostics with Deep Learning](https://escholarship.org/uc/item/6cq494gs)*,   
+Ph.D. Thesis, University of California, Los Angeles, 2022. 
+
+- Robiulhossain Mdrafi,  
+*[Model-based Deep Learning for Computational Imaging](https://scholarsjunction.msstate.edu/td/5458)*,   
+Ph.D. Thesis, Mississippi State University, 2022. [PDF](https://scholarsjunction.msstate.edu/cgi/viewcontent.cgi?article=6459&context=td)
+
+- Yunzhe Li,  
+*[Robust Deep Learning for Computational Imaging through Random Optics](https://www.proquest.com/dissertations-theses/robust-deep-learning-computational-imaging/docview/2769976536/se-2?accountid=14548)*,   
+Ph.D. Thesis, Boston University, 2023.
