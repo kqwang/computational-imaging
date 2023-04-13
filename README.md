@@ -413,7 +413,7 @@ Key words: biomedical imaging etc.
 # Review/Tutorial papers
 (In chronological order)
 
-<a name="CPpaper"></a>
+<a name="CPpapers"></a>
 ## Computational imaging
 
 - Y. Shechtman, Y. C. Eldar, O. Cohen, H. N. Chapman, J. Miao, and M. Segev  
