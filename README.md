@@ -567,8 +567,14 @@ Ph.D. Thesis, Massachusetts Institute of Technology, 2013.  [PDF](https://dspace
 *[Interferometric light microscopy for wafer defect inspection and three-dimensional object reconstruction](https://hdl.handle.net/2142/72977)*,   
 Ph.D. Thesis, University of Illinois at Urbana-Champaign, 2013.  [PDF](https://www.ideals.illinois.edu/items/73166/bitstreams/193614/object?dl=1)
 
+- Yifan Peng,  
+*[Computational imaging with diffractive optics](https://dx.doi.org/10.14288/1.0365608)*,   
+Ph.D. Thesis, University of British Columbia, 2018.  [PDF](https://open.library.ubc.ca/media/download/pdf/24/1.0365608/4)
+
 - Shuai Li,  
 *[Computational imaging through deep learning](https://hdl.handle.net/1721.1/122070)*,   
 Ph.D. Thesis, Massachusetts Institute of Technology, 2019.  [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/122070/1117711022-MIT.pdf)
 
-
+- Michael Kellman,  
+*[Physics-based Learning for Large-scale Computational Imaging](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-167.html)*,   
+Ph.D. Thesis, University of California, Berkeley, 2020.  [PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-167.pdf)
