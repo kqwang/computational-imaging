@@ -661,7 +661,7 @@ Ph.D. Thesis, University of California, Los Angeles, 2022.
 
 - Kristina Monakhova,  
 *[Physics-Informed Machine Learning for Computational Imaging](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-177.html)*,   
-Ph.D. Thesis, University of California, Berkeley, 2022. [pdf](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-177.pdf)
+Ph.D. Thesis, University of California, Berkeley, 2022. [PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-177.pdf)
 
 - Calvin Brown,  
 *[Computational Imaging and Sensing in Diagnostics with Deep Learning](https://escholarship.org/uc/item/6cq494gs)*,   
