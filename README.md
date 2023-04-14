@@ -316,8 +316,11 @@ Key words: biomedical imaging and photoacoustic imaging etc.
 - [Peter Wai Ming Tsang ](https://scholars.cityu.edu.hk/en/persons/wai-ming-peter-tsang(892d3f89-71e1-4348-9bd0-c27f242c0d00).html)(City University of Hong Kong)  
 Key words: holography etc.
 
+- [Yang Wang ](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yang-wang-yangwang)(The Hong Kong University of Science and Technology)  
+Key words: phase retrieval etc.
+
 - [Bihan Wen ](https://personal.ntu.edu.sg/bihan.wen/)(Nanyang Technological University)  
-Key words: inverse problem and computational Imaging etc.
+Key words: inverse problem and computational imaging etc.
 
 - [Yuan Wu ](http://www.bme.cuhk.edu.hk/yuan/)(The Chinese University of Hong Kong)  
 Key words: biomedical imaging and optical coherence tomography etc.
@@ -650,6 +653,10 @@ Ph.D. Thesis, University of California, Berkeley, 2018.  [PDF](http://www2.eecs.
 *[Computational imaging through deep learning](https://hdl.handle.net/1721.1/122070)*,   
 Ph.D. Thesis, Massachusetts Institute of Technology, 2019.  [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/122070/1117711022-MIT.pdf)
 
+- David A. Barmherzig,  
+*[The Phase Retrieval Problem: Theory, Algorithms, and Applications](The Phase Retrieval Problem: Theory, Algorithms, and Applications)*,   
+Ph.D. Thesis, UStanford University, 2019.  
+
 - Yichen Wu,  
 *[Deep Learning-enabled Computational Imaging in Optical Microscopy and Air Quality Monitoring](https://escholarship.org/uc/item/1249c1bv)*,   
 Ph.D. Thesis, University of California, Los Angeles, 2019.  [PDF](https://escholarship.org/content/qt1249c1bv/qt1249c1bv.pdf?t=pzmaiu)
@@ -657,6 +664,14 @@ Ph.D. Thesis, University of California, Los Angeles, 2019.  [PDF](https://eschol
 - Michael Kellman,  
 *[Physics-based Learning for Large-scale Computational Imaging](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-167.html)*,   
 Ph.D. Thesis, University of California, Berkeley, 2020.  [PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-167.pdf)
+
+- Zhuoqun Zhang,  
+*[Analysis and Development of Phase Retrieval Algorithms for Ptychography](https://etheses.whiterose.ac.uk/30033/)*,   
+Ph.D. Thesis, University of Sheffield, 2021. [PDF](https://etheses.whiterose.ac.uk/30033/1/zhuoqun_zhang_thesis_160251201_Corrected.pdf)
+
+- Obed A. Ayisi,  
+*[Multiple-Wavelength Phase Retrieval With Digital Holographic Microscopy](https://openknowledge.nau.edu/id/eprint/5717)*,   
+Masters Thesis, Northern Arizona University, 2021. 
 
 - Xiaojian Xu,  
 *[Model-based Deep Learning for Computational Imaging](https://doi.org/10.7936/r9e7-ng63)*,   
@@ -669,6 +684,10 @@ Ph.D. Thesis, University of California, Los Angeles, 2022.
 - Kristina Monakhova,  
 *[Physics-Informed Machine Learning for Computational Imaging](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-177.html)*,   
 Ph.D. Thesis, University of California, Berkeley, 2022. [PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2022/EECS-2022-177.pdf)
+
+- Marissa A. Morado,  
+*[Solving the phase retrieval problem using an artificial neural network](http://hdl.handle.net/20.500.12680/cv43p355k)*,   
+Ph.D. Thesis, California State University, Fresno, 2022. [PDF](https://scholarworks.calstate.edu/downloads/44558m79w)
 
 - Calvin Brown,  
 *[Computational Imaging and Sensing in Diagnostics with Deep Learning](https://escholarship.org/uc/item/6cq494gs)*,   
