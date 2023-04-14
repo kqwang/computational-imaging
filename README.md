@@ -273,8 +273,11 @@ Key words: phase imaging and holograohy etc.
 - [An Pan ](https://www.sites.google.com/site/dranpanblog/)(Chinese Academy of Sciences)  
 Key words: biomedical imaging etc.
 
+- [Jung-Hoon Park ](https://www.biooptics.org/)(Ulsan National Institute of Science and Technology)  
+Key words: biomedical imaging and phase imaging etc.
+
 - [YongKeun Park ](https://bmokaist.wordpress.com/)(Korea Advanced Institute of Science and Technology)  
-Key words: biomedical imaging and phase imaging etc
+Key words: biomedical imaging and phase imaging etc.
 
 - [Yifan (Evan) Peng ](https://www.eee.hku.hk/~evanpeng/)(The University of Hong Kong)  
 Key words: computational imaging and holography etc.
