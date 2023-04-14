@@ -37,7 +37,7 @@ Please use the following guidelines:
 <a name="groups"></a>
 # Research groups/organizations
 (In alphabetical order according to surnames)
-    
+(Quick search with "ctrl+F")
 <a name="groups-Americas"></a>
 ## Americas
 - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)   
@@ -142,7 +142,7 @@ Key words: computational imaging and photography etc.
 - [Saiprasad Ravishankar ](https://sites.google.com/site/sairavishankar3)(Michigan State University)  
 Key words: compressed sensing and computational imaging etc.
 
-- [Mariano Rivera ](https://www.cimat.mx/~mrivera/mr.html)(Centro de Investigación en Matemáticas AC, Mexico)  
+- [Mariano Rivera ](https://www.cimat.mx/~mrivera/mr.html)(Centro de Investigación en Matemáticas AC)  
 Key words: fringe analysis etc.
 
 - [Jannick Rolland ](http://www.odalab-spectrum.org/)(University of Rochester)  
