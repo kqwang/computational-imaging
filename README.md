@@ -258,6 +258,9 @@ Key words: super-resolution imaging and optical trapping etc.
 - [Cheng Liu ](http://science.jiangnan.edu.cn/content_js.jsp?urltype=news.NewsContentUrl&wbtreeid=1034&wbnewsid=5799)(Jiangnan University)  
 Key words: phase imaging etc.   
 
+- [Xu Liu ](https://person.zju.edu.cn/en/0090123)(Zhejiang University)  
+Key words: computational imaging, super-resolution imaging and light-field imaging etc.
+
 - [Zhengjun Liu ](http://homepage.hit.edu.cn/liuzhengjun)(Harbin Institute of Technology)  
 Key words: computational imaging etc.
 
