@@ -28,7 +28,7 @@
 You are welcome to add or modify some content (categories or lists, etc.) via the ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).  
 
 Please use the following guidelines:
-- Edit the raw file with [Markdown](https://www.markdownguide.org/).
+- Edit the raw file with [Markdown Syntax](https://www.markdownguide.org/basic-syntax/).
 - Avoid typos.
 - Don't add what's already there.
 - Uniform the format of new additions with that of the existing.
