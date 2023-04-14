@@ -32,8 +32,9 @@ Please use the following guidelines:
 - Avoid typos.
 - Don't add what's already there.
 - Uniform the format of new additions with that of the existing.
-- Note the order of new additions (chronological or alphabetical).   
-
+- Note the order of new additions (chronological or alphabetical).  
+ 
+****
 <a name="groups"></a>
 # Research groups/organizations
 (In alphabetical order according to surnames)  
@@ -398,6 +399,7 @@ Key words: biomedical imaging and super-resolution imaging etc.
 - [Michael Unser ](http://bigwww.epfl.ch/)(The École polytechnique fédérale de Lausanne)  
 Key words: biomedical imaging etc.
 
+****
 <a name="companies"></a>
 # Companies
 (In alphabetical order)
@@ -414,6 +416,7 @@ Key words: biomedical imaging etc.
 - [Tomocube](https://www.tomocube.com/)
 - [Zygo](https://www.zygo.com/)  
 
+****
 <a name="workshops"></a>
 # Workshops (video or slides available)
 (In chronological order)
@@ -423,7 +426,8 @@ Key words: biomedical imaging etc.
 - ["Computational Microscopy"](http://www.ipam.ucla.edu/programs/long-programs/computational-microscopy/?tab=overview) in IPAM (September 12 - December 16, 2022)
    - ["Computational Microscopy Tutorials" ](http://www.ipam.ucla.edu/programs/workshops/computational-microscopy-tutorials/)(September 13-16, 2022)
    - ["Diffractive Imaging with Phase Retrieval"  ](http://www.ipam.ucla.edu/programs/workshops/workshop-i-diffractive-imaging-with-phase-retrieval/)(October 10-14, 2022)
-   
+
+****
 <a name="courses"></a>
 # Courses (video or slides available)
 
@@ -547,6 +551,7 @@ Adv. Photon. Nexus 1(1), 014001 (2022).
 *[Phase Retrieval: From Computational Imaging to Machine Learning: A tutorial](https://doi.org/10.1109/MSP.2022.3219240),*  
 IEEE Signal Process. Mag. 40(1), 45–57 (2023).
 
+****
 <a name="DT"></a>
 # Dissertations & Theses
 (In chronological order)
