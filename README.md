@@ -36,8 +36,8 @@ Please use the following guidelines:
 
 <a name="groups"></a>
 # Research groups/organizations
-(In alphabetical order according to surnames)
-(Quick search with "ctrl+F")
+(In alphabetical order according to surnames)  
+(Quick search with "Ctrl + F")
 <a name="groups-Americas"></a>
 ## Americas
 - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)   
