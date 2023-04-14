@@ -552,6 +552,10 @@ IEEE Signal Process. Mag. 40(1), 45–57 (2023).
 *[Intelligent holographic databases](https://resolver.caltech.edu/CaltechETD:etd-03172008-142604)*,  
 Ph.D. Thesis, California Institute of Technology, 1997. [PDF](https://thesis.library.caltech.edu/986/1/Barbastathis_g_1998.pdf)  
 
+- Stephen A. Boppart,  
+*[Surgical diagnostics, guidance, and intervention using optical coherence tomography](http://hdl.handle.net/1721.1/9889)*,  
+Ph.D. Thesis, Massachusetts Institute of Technology, 1998. [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/9889/41862022-MIT.pdf)  
+
 - Edmund Y. Lam,  
 *[Image restoration algorithms for monochrome digital photography](https://www.proquest.com/dissertations-theses/image-restoration-algorithms-monochrome-digital/docview/304626365/se-2?accountid=14548)*,  
 Ph.D. Thesis, Stanford University, 2000. 
@@ -580,17 +584,57 @@ Ph.D. Thesis, California Institute of Technology, 2012.  [PDF](https://thesis.li
 *[Pathophysiology of human red blood cell probed by quantitative phase microscopy](http://hdl.handle.net/1721.1/58092)*,  
 Ph.D. Thesis, Massachusetts Institute of Technology, 2013.  [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/58092/656250904-MIT.pdf)
 
+- Hoa Pham,  
+*[Real-time quantitative phase imaging for cell studies](http://hdl.handle.net/2142/45508)*,   
+Ph.D. Thesis, University of Illinois at Urbana-Champaign, 2013.  [PDF](https://www.ideals.illinois.edu/items/45490/bitstreams/134768/object?dl=1)
+
 - Lei Tian,  
 *[Compressive phase retrieval](http://hdl.handle.net/1721.1/81756)*,  
 Ph.D. Thesis, Massachusetts Institute of Technology, 2013.  [PDF](https://dspace.mit.edu/bitstream/handle/1721.1/81756/860986128-MIT.pdf)
 
+- Mustafa Mir,    
+*[Quantitative phase imaging for cellular biology](http://hdl.handle.net/2142/45668)*,   
+Ph.D. Thesis, University of Illinois at Urbana-Champaign, 2013.  [PDF](https://www.ideals.illinois.edu/items/45650/bitstreams/135201/object?dl=1)
+
 - Renjie Zhou,  
-*[Interferometric light microscopy for wafer defect inspection and three-dimensional object reconstruction](https://hdl.handle.net/2142/72977)*,   
+*[Interferometric light microscopy for wafer defect inspection and three-dimensional object reconstruction](http://hdl.handle.net/2142/88067)*,   
 Ph.D. Thesis, University of Illinois at Urbana-Champaign, 2013.  [PDF](https://www.ideals.illinois.edu/items/73166/bitstreams/193614/object?dl=1)
+
+- Nathan D. Shemonski,   
+*[In vivo human computed optical interferometric tomography](http://hdl.handle.net/2142/73035)*,   
+Ph.D. Thesis, University of Illinois at Urbana-Champaign, 2015.  [PDF](https://www.ideals.illinois.edu/items/73224/bitstreams/193791/object?dl=1)
+
+- Dennis J. Lee,  
+*[Computational optical imaging: Applications in synthetic aperture imaging, phase retrieval, and digital holography](https://docs.lib.purdue.edu/open_access_dissertations/500)*,   
+Ph.D. Thesis, Purdue University, 2015.  [PDF](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1406&context=open_access_dissertations)
+
+- Tae-Woo Kim,   
+*[Quantitative phase imaging: advances to 3D imaging and applications to neuroscience](https://hdl.handle.net/2142/72977)*,   
+Ph.D. Thesis, University of Illinois at Urbana-Champaign, 2015.  [PDF](https://www.ideals.illinois.edu/items/89347/bitstreams/229128/object?dl=1)
+
+- Chien-Hung Lu,   
+*[Computational Phase Imaging in Nonlinear and Quantum Systems](http://arks.princeton.edu/ark:/88435/dsp01k643b3556)*,   
+Ph.D. Thesis, Princeton University, 2015.  [PDF](https://dataspace.princeton.edu/bitstream/88435/dsp01k643b3556/1/Lu_princeton_0181D_11552.pdf)
+
+- Shamira Sridharan,   
+*[Applications of quantitative phase imaging for pathology](http://hdl.handle.net/2142/88244)*,   
+Ph.D. Thesis, University of Illinois at Urbana-Champaign, 2015.  [PDF](https://www.ideals.illinois.edu/items/89524/bitstreams/229508/object?dl=1)
+
+- Tan Huu Nguyen,   
+*[Computational phase imaging for biomedical applications](http://hdl.handle.net/2142/95321)*,   
+Ph.D. Thesis, University of Illinois at Urbana-Champaign, 2016.  [PDF](https://www.ideals.illinois.edu/items/98436/bitstreams/315324/object?dl=1)
 
 - Yifan Peng,  
 *[Computational imaging with diffractive optics](https://dx.doi.org/10.14288/1.0365608)*,   
 Ph.D. Thesis, University of British Columbia, 2018.  [PDF](https://open.library.ubc.ca/media/download/pdf/24/1.0365608/4)
+
+- Chandrabhan Seniya,  
+*[A flexible low-cost quantitative phase imaging microscopy system for label-free imaging of multi-cellular biological samples]( http://webcat.warwick.ac.uk/record=b3184498~S1)*,   
+Ph.D. Thesis, University of Warwick, 2018.  [PDF](http://wrap.warwick.ac.uk/106451/1/WRAP_Theses_Seniya_2018.pdf)
+
+- Aamod Shanker,  
+*[Differential methods in phase imaging for optical lithography](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-160.html)*,   
+Ph.D. Thesis, University of California, Berkeley, 2018.  [PDF](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-160.pdf)
 
 - Shuai Li,  
 *[Computational imaging through deep learning](https://hdl.handle.net/1721.1/122070)*,   
