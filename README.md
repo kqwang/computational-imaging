@@ -45,25 +45,25 @@ Please use the following guidelines:
 Key words: computational imaging, phase imaging, and tomographic imaging etc.
 
 - [Moungi Bawendi ](https://nanocluster.mit.edu/)(Massachusetts Institute of Technology)  
-Key words: biomedical imaging etc.
+Key words: biomedical imaging and infrared imaing etc.
 
 - [Eric Betzig ](https://physics.berkeley.edu/people/faculty/eric-betzig)(University of California, Berkeley)  
-Key words: biomedical imaging etc.
+Key words: biomedical imaging, localization microscopy, structured illumination microscopy (SIM), and adaptive optics etc.
 
 - [Joerg Bewersdorf ](http://bewersdorflab.org/)(Yale University)  
-Key words: biomedical imaging and super-resolution imaging etc.
+Key words: biomedical imaging, STED microscopy and localization microscopy etc.
 
 - [Stephen Boppart ](https://biophotonics.illinois.edu/)(University of Illinois Urbana-Champaign)    
-Key words: biomedical imaging and optical coherence tomography etc.
+Key words: biomedical imaging, optical coherence tomography, and adaptive optics etc.
 
 - [Charles A. Bouman ](https://engineering.purdue.edu/~bouman/)(Purdue University)    
-Key words: computational Imaging and computed tomography etc.
+Key words: computational imaging and computed tomography etc.
 
 - [Katherine (Katie) L. Bouman ](https://computationalcameras.org/)(California Institute of Technology)  
-Key words: computational imaging and "Event Horizon Telescope" etc. 
+Key words: computational imaging, tomography, and ["Event Horizon Telescope"](https://eventhorizontelescope.org/) etc. 
 
 - [David J. Brady ](https://disp.duke.edu/) (Duke University)  
-Key words: light field imaging, compressive holography, and computational spectral microscopy etc.
+Key words: computational imaging and compressive imaging etc.
 
 - [Ni Chen ](http://intelligentoptics.org/)(University of Arizona)  
 Key words: holography, phase imaging, and light field imaging etc.
@@ -78,13 +78,13 @@ Key words: computational imaging, computer vision, and computational displays et
 Key works: biomedical imaging, laser speckle contrast imaging and multiphoton imaging etc.
 
 - [James R. Fienup ](https://labsites.rochester.edu/fienup/)(University of Rochester)  
-Key words: phase imaging and wavefront sensing etc.
+Key words: phase retrieval, coherent diffraction imaing, and wavefront sensing etc.
 
 - [Jason W. Fleischer ](https://www.princeton.edu/~jasonf/)(Mississippi State University)  
-Key words: computational imaging and compressive learning etc.
+Key words: computational imaging, phase retrieval, and optical tomography etc.
 
 - [Ali Cafer Gurbuz](https://my.ece.msstate.edu/faculty/gurbuz/)(Princeton University)  
-Key words: computational imaging etc.
+Key words: computational imaging and compressive imaging etc.
 
 - [Paul Hand ](https://khoury.northeastern.edu/home/hand/)(Northeastern University)  
 Key words: inverse problem and phase retrieval etc.
@@ -117,19 +117,19 @@ Key words: computational photography and light-fields imaging etc.
 Key words: computational imaging, optical metrology, and biomedical optical imaging etc.
 
 - [Jerome Mertz](https://sites.bu.edu/biomicroscopy/)(Boston University)  
-Key words: biomedical imaging etc. 
+Key words: biomedical imaging, confocal microscopy and imaging through scattering media etc. 
 
 - [Jianwei (John) Miao ](https://www.physics.ucla.edu/research/imaging/)(University of California, Los Angeles)  
-Key words: coherent diffractive imaging etc.
+Key words: coherent diffractive imaging and atomic electron tomography etc.
 
 - [Ren Ng ](https://www2.eecs.berkeley.edu/Faculty/Homepages/yirenng.html)(University of California, Berkeley)  
 Key words: computational photography etc.
 
 - [Aydogan Ozcan ](https://research.seas.ucla.edu/ozcan/)(University of California, Los Angeles)  
-Key words: computational imaging, lensless imaging and optical neural network etc.
+Key words: computational imaging, lensless imaging and optical diffraction neural network etc.
 
 - [Shuo Sean Pang ](https://oisl.creol.ucf.edu/)(University of Central Florida)  
-Key words: computational imaging etc. 
+Key words: computational imaging and X-ray tomography etc. 
 
 - [Leilei Peng ](https://wp.optics.arizona.edu/lpeng/)(University of Arizona)  
 Key words: biomedical imaging and super-resolution imaging etc.
@@ -138,10 +138,10 @@ Key words: biomedical imaging and super-resolution imaging etc.
 Key words: biomedical imaging and phase imaging etc.
 
 - [Ramesh  Raskar ](http://cameraculture.media.mit.edu/)(Massachusetts Institute of Technology)  
-Key words: computational imaging and photography etc.
+Key words: computational imaging and computational photography etc.
 
 - [Saiprasad Ravishankar ](https://sites.google.com/site/sairavishankar3)(Michigan State University)  
-Key words: compressed sensing and computational imaging etc.
+Key words: compressive sensing, inverse problem and computational imaging etc.
 
 - [Mariano Rivera ](https://www.cimat.mx/~mrivera/mr.html)(Centro de Investigación en Matemáticas AC)  
 Key words: fringe analysis etc.
@@ -153,16 +153,16 @@ Key words: optical coherence tomography etc.
 Key words: biomedical imaging, multispectral imaging, multiphoton imaging, and Polarization imaging etc.
 
 - [Peter So ](https://web.mit.edu/solab/)(Massachusetts Institute of Technology)  
-Key words: biomedical imaging etc.
+Key words: biomedical imaging and two-photon fluorescence microscopy etc.
 
 - [Aswin Sankaranarayanan ](https://imaging.cs.cmu.edu/)(Carnegie Mellon University)  
-Key words: computational imaging etc. 
+Key words: computational photography and compressive sensing etc. 
 
 - [Ju Sun ](https://glovex.umn.edu/)(University of Minnesota)  
 Key words: inverse problem and phase retrieval etc.
 
 - [Lei Tian ](https://sites.bu.edu/tianlab/)(Boston University)  
-Key words: computational imaging etc.
+Key words: computational imaging, Fourier ptychography and imaging through scattering media etc.
 
 - [Ashok Veeraraghavan ](https://www.computationalimaging.org/)(Rice University)  
 Key words: wavefront sensing, imaging through scattering media, and lensless imaging etc.
@@ -171,7 +171,7 @@ Key words: wavefront sensing, imaging through scattering media, and lensless ima
 Key words: computational imaging, phase imgaing, lensless imaging etc.
 
 - [Lihong Wang ](http://coilab.caltech.edu/)(California Institute of Technology)  
-Key words: biomedical imaging etc.
+Key words: biomedical imaging and optical coherence tomography etc.
 
 - [Adam P. Wax ](http://bios.bme.duke.edu/)(Duke University)  
 Key words: biomedical imaging, optical spectroscopy, and interferometry etc.
@@ -186,7 +186,7 @@ Key words: computational imaging and 3D imaging etc.
 Key words: Fourier ptychography, wavefront shaping and non-line-of-sight imaging etc.
 
 - [Sixian You ](https://sixianyou.mit.edu/)(Massachusetts Institute of Technology)  
-Key words: biomedical imaging etc.
+Key words: biomedical imaging and multiphoton imaging etc.
 
 - [Guoan Zheng ](https://smartimaging.uconn.edu/)(University of Connecticut)  
 Key words: Fourier ptychography etc.
