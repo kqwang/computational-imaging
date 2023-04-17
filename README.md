@@ -1,4 +1,4 @@
-# Resources for computational imaging and phase acquisition/imaging
+# Resources for computational imaging and phase acquisition / imaging
 ****
 ## Table of Contents:
 - [Contributing](#contributing)
@@ -14,7 +14,7 @@
 
 - [Courses](#courses) (video or slides available)  
 
-- [Review/Tutorial papers](#papers)  
+- [Review / Tutorial papers](#papers)  
    - [Computational imaging](#CPpapers)   
    - [Computational imaging & deep learning](#DLpapers)       
  
