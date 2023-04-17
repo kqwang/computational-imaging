@@ -381,6 +381,9 @@ Key words: computational imaging, light sheet microscopy, and speckle metrology 
 - [‪Daniele Faccio](https://www.physics.gla.ac.uk/XtremeLight/)(University of Glasgow)  
 Key words: computational imaging, ghost imaging and imaging through scattering media etc.
 
+- [‪Pietro Ferraro](https://scholar.google.com/citations?user=yyFkAiQAAAAJ&hl=en)(Consiglio Nazionale delle Ricerche)  
+Key words: holography etc.
+
 - [‪Hans-Werner Fink](https://www.physik.uzh.ch/groups/fink/)(University of Zurich)  
 Key words: electron holography etc.
 
