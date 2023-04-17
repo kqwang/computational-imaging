@@ -1,4 +1,4 @@
-# Resources for computational imaging and phase acquisition / imaging
+# Resources for computational imaging and phase imaging / phase acquisition
 ****
 ## Table of Contents:
 - [Contributing](#contributing)
