@@ -325,7 +325,7 @@ Key words: computational imaging, phase imaging, single-pixel imaging and hologr
 - [Baoqing Sun](https://faculty.sdu.edu.cn/sunbaoqing/zh_CN/index/686049/list/index.htm)(Shandong University)  
 Key words: single-pixel imaging etc.
 
-- [Xiaodi Tan](http://www.io-lab.cn/)(Fujian Normal University)
+- [Xiaodi Tan](http://www.io-lab.cn/)(Fujian Normal University)  
 Key words: holography etc.
 
 - [Chao Tian ](http://staff.ustc.edu.cn/~ctian/i)(University of Science and Technology of China)  
