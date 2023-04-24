@@ -310,7 +310,7 @@ Key words: polarimetric imaging etc.
 - [Joseph Rosen ](https://www.ee.bgu.ac.il/~rosen/)(Ben-Gurion University of the Negev)  
 Key words: holography etc.
 
-- Natan T. Shaked (Tel Aviv University) Homepage: http://www.eng.tau.ac.il/~omni/  (Looks like it's temporarily unavailable)  
+- [Natan T. Shaked](http://www.eng.tau.ac.il/~omni/index2.php/) (Tel Aviv University)  
 Key words: biomedical imaging, interferometry, and tomography etc.
 
 - [Xiaopeng Shao ](https://web.xidian.edu.cn/xpshao/)(Xidian University)  
