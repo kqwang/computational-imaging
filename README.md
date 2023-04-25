@@ -68,7 +68,7 @@ Key words: computational imaging and compressive imaging etc.
 - [Stanley H. Chan ](https://engineering.purdue.edu/ChanGroup/) (Purdue University)  
 Key words: computational imaging, imaging through atmospheric turbulence and photon-limited imaging etc.
 
-- [Ni Chen ](http://intelligentoptics.org/)(University of Arizona)  
+- [Ni Chen ](https://ni-chen.github.io/)(University of Arizona)  
 Key words: holography, phase imaging, and light field imaging etc.
 
 - [Steven Chu](https://physics.stanford.edu/people/steven-chu)(Stanford University)  
