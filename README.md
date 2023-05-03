@@ -253,6 +253,9 @@ Key words: inverse problem and computational imaging etc.
 - [Wolfgang Heidrich ](https://vccimaging.org/)(King Abdullah University of Science and Technology)  
 Key words: computational imaging and display etc.
 
+- [Shensheng Han](https://people.ucas.ac.cn/~sshan?language=en)(University of Chinese Academy of Sciences)   
+Key words: quantum imaging etc.
+
 - [Hua Huang ](https://vmcl.bit.edu.cn/)(Beijing Institute of Technology)  
 Key words: computational photography etc.
 
@@ -350,7 +353,7 @@ Key words: biomedical imaging and photoacoustic imaging etc.
 Key words: optical nanoscopy, confocal and multiphoton microscopy etc.
 
 - [Feihu Xu ](https://quantum.ustc.edu.cn/web/index.php/node/475)(University of Science and Technology of China)  
-Key words: single-photon imaging etc.
+Key words: quantum imaging etc.
 
 - [Baoli Yao ](https://people.ucas.ac.cn/~yaobaoli?language=en)(University of Chinese Academy of Sciences)  
 Key words: super-resolution imaging and holography etc.
