@@ -481,6 +481,7 @@ IEEE Signal Process. Mag. 32(3), 87–109 (2015).
 *[Quantitative phase imaging in biomedicine](https://doi.org/10.1038/s41566-018-0253-x),*  
 Nature Photon. 12(10), 578–589 (2018).
 
+
 - J. N. Mait, G. W. Euliss, and R. A. Athale  
 *[Computational imaging](https://doi.org/10.1364/AOP.10.000409),*  
 Adv. Opt. Photon. 10(2), 409 (2018).
@@ -501,6 +502,10 @@ Optics and Lasers in Engineering 135, 106188 (2020).
 *[Roadmap on holography](https://doi.org/10.1088/2040-8986/abb3a4),*  
 J. Opt. 22(12), 123002 (2020).
 
+- G. Ongie, A. Jalal, C. A. Metzler, R. G. Baraniuk, A. G. Dimakis, and R. Willett  
+*[Deep Learning Techniques for Inverse Problems in Imaging](https://doi.org/10.48550/arXiv.2005.06001),*  
+arXiv:2005.06001 (2020).
+
 - C. Zuo, J. Li, J. Sun, Y. Fan, J. Zhang, L. Lu, R. Zhang, B. Wang, L. Huang, and Q. Chen  
 *[Transport of intensity equation: a tutorial](https://doi.org/10.1016/j.optlaseng.2020.106187),*  
 Optics and Lasers in Engineering 106187 (2020).
@@ -513,6 +518,10 @@ J. Imaging 7(12), 252 (2021).
 *[Roadmap on digital holography [Invited]](https://doi.org/10.1364/OE.435915),*  
 Opt. Express 29(22), 35078 (2021).
 
+- J. Suo, W. Zhang, J. Gong, X. Yuan, D. J. Brady, and Q. Dai  
+*[Computational Imaging and Artificial Intelligence: The Next Revolution of Mobile Vision](https://doi.org/10.48550/arXiv.2109.08880),*  
+arXiv:2109.08880 (2021).
+
 - G. Zheng, C. Shen, S. Jiang, P. Song, and C. Yang  
 *[Concept, implementations and applications of Fourier ptychography](https://doi.org/10.1038/s42254-021-00280-y),*  
 Nat. Rev. Phys. 3(3), 207–223 (2021).
@@ -520,6 +529,10 @@ Nat. Rev. Phys. 3(3), 207–223 (2021).
 - V. Petrov, A. Pogoda, V. Sementin, A. Sevryugin, E. Shalymov, D. Venediktov, and V. Venediktov  
 *[Advances in Digital Holographic Interferometry](https://doi.org/10.3390/jimaging8070196),*  
 J. Imaging 8(7), 196 (2022).
+
+- T. Shimobaba, D. Blinder, T. Birnbaum, I. Hoshi, H. Shiomi, P. Schelkens, and T. Ito  
+*[Deep-Learning Computational Holography: A Review](https://doi.org/10.3389/fphot.2022.854391),*  
+Front. Photon. 3, 854391 (2022).
 
 - T. L. Nguyen, S. Pradeep, R. L. Judson-Torres, J. Reed, M. A. Teitell, and T. A. Zangle  
 *[Quantitative Phase Imaging: Recent Advances and Expanding Potential in Biomedicine](https://doi.org/10.1021/acsnano.1c11507),*  
