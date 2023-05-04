@@ -481,7 +481,6 @@ IEEE Signal Process. Mag. 32(3), 87–109 (2015).
 *[Quantitative phase imaging in biomedicine](https://doi.org/10.1038/s41566-018-0253-x),*  
 Nature Photon. 12(10), 578–589 (2018).
 
-
 - J. N. Mait, G. W. Euliss, and R. A. Athale  
 *[Computational imaging](https://doi.org/10.1364/AOP.10.000409),*  
 Adv. Opt. Photon. 10(2), 409 (2018).
@@ -501,10 +500,6 @@ Optics and Lasers in Engineering 135, 106188 (2020).
 - J. T. Sheridan, R. K. Kostuk, A. F. Gil, Y. Wang, W. Lu, H. Zhong, Y. Tomita, C. Neipp, J. Francés, S. Gallego, I. Pascual, V. Marinova, S.-H. Lin, K.-Y. Hsu, F. Bruder, S. Hansen, C. Manecke, R. Meisenheimer, C. Rewitz, T. Rölle, S. Odinokov, O. Matoba, M. Kumar, X. Quan, Y. Awatsuji, P. W. Wachulak, A. V. Gorelaya, A. A. Sevryugin, E. V. Shalymov, V. Yu Venediktov, R. Chmelik, M. A. Ferrara, G. Coppola, A. Márquez, A. Beléndez, W. Yang, R. Yuste, A. Bianco, A. Zanutta, C. Falldorf, J. J. Healy, X. Fan, B. M. Hennelly, I. Zhurminsky, M. Schnieper, R. Ferrini, S. Fricke, G. Situ, H. Wang, A. S. Abdurashitov, V. V. Tuchin, N. V. Petrov, T. Nomura, D. R. Morim, and K. Saravanamuttu  
 *[Roadmap on holography](https://doi.org/10.1088/2040-8986/abb3a4),*  
 J. Opt. 22(12), 123002 (2020).
-
-- G. Ongie, A. Jalal, C. A. Metzler, R. G. Baraniuk, A. G. Dimakis, and R. Willett  
-*[Deep Learning Techniques for Inverse Problems in Imaging](https://doi.org/10.48550/arXiv.2005.06001),*  
-arXiv:2005.06001 (2020).
 
 - C. Zuo, J. Li, J. Sun, Y. Fan, J. Zhang, L. Lu, R. Zhang, B. Wang, L. Huang, and Q. Chen  
 *[Transport of intensity equation: a tutorial](https://doi.org/10.1016/j.optlaseng.2020.106187),*  
@@ -530,10 +525,6 @@ Nat. Rev. Phys. 3(3), 207–223 (2021).
 *[Advances in Digital Holographic Interferometry](https://doi.org/10.3390/jimaging8070196),*  
 J. Imaging 8(7), 196 (2022).
 
-- T. Shimobaba, D. Blinder, T. Birnbaum, I. Hoshi, H. Shiomi, P. Schelkens, and T. Ito  
-*[Deep-Learning Computational Holography: A Review](https://doi.org/10.3389/fphot.2022.854391),*  
-Front. Photon. 3, 854391 (2022).
-
 - T. L. Nguyen, S. Pradeep, R. L. Judson-Torres, J. Reed, M. A. Teitell, and T. A. Zangle  
 *[Quantitative Phase Imaging: Recent Advances and Expanding Potential in Biomedicine](https://doi.org/10.1021/acsnano.1c11507),*  
 ACS Nano 16(8), 11516–11544 (2022).
@@ -557,9 +548,17 @@ Optica 6(8), 921 (2019).
 *[Deep learning in holography and coherent imaging](https://doi.org/10.1038/s41377-019-0196-0),*  
 Light Sci. Appl. 8(1), 85 (2019).
 
+- G. Ongie, A. Jalal, C. A. Metzler, R. G. Baraniuk, A. G. Dimakis, and R. Willett  
+*[Deep Learning Techniques for Inverse Problems in Imaging](https://doi.org/10.48550/arXiv.2005.06001),*  
+arXiv:2005.06001 (2020).
+
 - T. Zeng, Y. Zhu, and E. Y. Lam  
 *[Deep learning for digital holography: a review](https://doi.org/10.1364/OE.443367),*  
 Opt. Express 29(24), 40572 (2021).
+
+- T. Shimobaba, D. Blinder, T. Birnbaum, I. Hoshi, H. Shiomi, P. Schelkens, and T. Ito  
+*[Deep-Learning Computational Holography: A Review](https://doi.org/10.3389/fphot.2022.854391),*  
+Front. Photon. 3, 854391 (2022).
 
 - L. Zhou, H. Yu, Y. Lan, and  m. Xing  
 *[Artificial Intelligence In Interferometric Synthetic Aperture Radar Phase Unwrapping: A Review](https://doi.org/10.1109/MGRS.2021.3065811),*  
