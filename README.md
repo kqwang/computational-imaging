@@ -433,6 +433,7 @@ Key words: biomedical imaging etc.
 
 - [d'Optron](https://www.doptron.com/) 
 - [Holmarc Opto-Mechatronics](https://holmarc.com/)  
+- [Imaging Optic](https://www.imagine-optic.com/)  
 - [Lyncee Tec](https://www.lynceetec.com/)  
 - [Nanolive](https://www.nanolive.ch/)  
 - [Phase Holographic Imaging PHI AB](https://phiab.com/)  
