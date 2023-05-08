@@ -577,6 +577,10 @@ Light Sci. Appl. 11(1), 39 (2022).
 *[Adaptive optics based on machine learning: a review](https://doi.org/10.37188/lam.2022.013),*  
 Opto-Electronic Advances 5(7), 200082–200082 (2022).
 
+- A. Qayyum, I. Ilahi, F. Shamshad, F. Boussaid, M. Bennamoun, and J. Qadir  
+*[Untrained Neural Network Priors for Inverse Imaging Problems: A Survey](https://doi.org/10.1109/TPAMI.2022.3204527),*  
+IEEE Trans. Pattern Anal. Mach. Intell. 45(5), 6511–6536 (2022).
+
 - D. Mengu, M. S. Sakib Rahman, Y. Luo, J. Li, O. Kulce, and A. Ozcan  
 *[At the intersection of optics and deep learning: statistical inference, computing, and inverse design](https://doi.org/10.1364/aop.450345),*  
 Adv. Opt. Photon. 14(2), 209 (2022).
