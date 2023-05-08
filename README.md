@@ -557,10 +557,6 @@ arXiv:2005.06001 (2020).
 *[Deep learning for digital holography: a review](https://doi.org/10.1364/OE.443367),*  
 Opt. Express 29(24), 40572 (2021).
 
-- T. Shimobaba, D. Blinder, T. Birnbaum, I. Hoshi, H. Shiomi, P. Schelkens, and T. Ito  
-*[Deep-Learning Computational Holography: A Review](https://doi.org/10.3389/fphot.2022.854391),*  
-Front. Photon. 3, 854391 (2022).
-
 - L. Zhou, H. Yu, Y. Lan, and  m. Xing  
 *[Artificial Intelligence In Interferometric Synthetic Aperture Radar Phase Unwrapping: A Review](https://doi.org/10.1109/MGRS.2021.3065811),*  
 IEEE Geosci. Remote Sens. Mag. 2–20 (2021).
@@ -576,6 +572,10 @@ Light Sci. Appl. 11(1), 39 (2022).
 - Y. Guo, L. Zhong, L. Min, J. Wang, Y. Wu, K. Chen, K. Wei, and C. Rao  
 *[Adaptive optics based on machine learning: a review](https://doi.org/10.37188/lam.2022.013),*  
 Opto-Electronic Advances 5(7), 200082–200082 (2022).
+
+- T. Shimobaba, D. Blinder, T. Birnbaum, I. Hoshi, H. Shiomi, P. Schelkens, and T. Ito  
+*[Deep-Learning Computational Holography: A Review](https://doi.org/10.3389/fphot.2022.854391),*  
+Front. Photon. 3, 854391 (2022).
 
 - A. Qayyum, I. Ilahi, F. Shamshad, F. Boussaid, M. Bennamoun, and J. Qadir  
 *[Untrained Neural Network Priors for Inverse Imaging Problems: A Survey](https://doi.org/10.1109/TPAMI.2022.3204527),*  
