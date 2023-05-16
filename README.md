@@ -143,10 +143,13 @@ Key words: biomedical imaging and super-resolution imaging etc.
 - [Nicolas Pegard ](https://www.pegardlab.com/)(University of North Carolina at Chapel Hill)  
 Key words: computational imaging, holographic display and multiphoton microscopy etc.
 
+- [Ting-Chung Poon ](https://sites.google.com/vt.edu/oshandholographiclab/home/)(Virginia Polytechnic Institute and State University)  
+Key words: holography etc.
+
 - [Gabriel Popescu ](https://light.ece.illinois.edu/)(University of Illinois at Urbana-Champaign)  
 Key words: biomedical imaging and phase imaging etc.
 
-- [Ramesh  Raskar ](http://cameraculture.media.mit.edu/)(Massachusetts Institute of Technology)  
+- [Ramesh Raskar ](http://cameraculture.media.mit.edu/)(Massachusetts Institute of Technology)  
 Key words: computational imaging and computational photography etc.
 
 - [Saiprasad Ravishankar ](https://sites.google.com/site/sairavishankar3)(Michigan State University)  
@@ -300,9 +303,6 @@ Key words: biomedical imaging and phase imaging etc.
 
 - [Yifan (Evan) Peng ](https://www.eee.hku.hk/~evanpeng/)(The University of Hong Kong)  
 Key words: computational imaging and hholographic display etc.
-
-- [Ting-Chung Poon ](https://sites.google.com/vt.edu/oshandholographiclab/home/)(Virginia Polytechnic Institute and State University)  
-Key words: holography etc.
 
 - [Kemao Qian ](https://www3.ntu.edu.sg/home/mkmqian/)(Nanyang Technological University)  
 Key words: fringe analysis etc.
