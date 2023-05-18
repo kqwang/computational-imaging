@@ -122,7 +122,10 @@ Key words: biomedical imaging, confocal Microscopy, and epifluorescence microsco
 Key words: computational photography and light-fields imaging etc.
 
 - [Rongguang Liang ](https://wp.optics.arizona.edu/ualiangaol/)(The University of Arizona)  
-Key words: computational imaging, optical metrology, and biomedical optical imaging etc.
+Key words: computational imaging, optical metrology, and biomedical imaging etc.
+
+- [Zhaowei Liu ](https://www.zhaowei.us/)(University of California, San Diego)  
+Key words: super-resolution imaging and biomedical imaging etc.
 
 - [Jerome Mertz](https://sites.bu.edu/biomicroscopy/)(Boston University)  
 Key words: biomedical imaging, confocal microscopy and imaging through scattering media etc. 
