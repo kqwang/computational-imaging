@@ -18,6 +18,8 @@
    - [Computational imaging](#CPpapers)   
    - [Computational imaging & deep learning](#DLpapers)       
  
+- [Books](#BK)  
+ 
 - [Dissertations & Theses](#DT)  
 
 ****
@@ -596,6 +598,63 @@ Adv. Photon. Nexus 1(1), 014001 (2022).
 - J. Dong, L. Valzania, A. Maillard, T. Pham, S. Gigan, and M. Unser  
 *[Phase Retrieval: From Computational Imaging to Machine Learning: A tutorial](https://doi.org/10.1109/MSP.2022.3219240),*  
 IEEE Signal Process. Mag. 40(1), 45–57 (2023).
+
+****
+<a name="BK"></a>
+# Books
+(In chronological order)  
+
+- D. C. Ghiglia and M. D. Pritt  
+*[Two-Dimensional Phase Unwrapping: Theory, Algorithms, and Software](https://www.wiley.com/en-dk/Two+Dimensional+Phase+Unwrapping:+Theory,+Algorithms,+and+Software-p-9780471249351),*  
+(Wiley, 1998).
+
+- J. W. Goodman  
+*[Introduction to Fourier Optics](https://link.springer.com/book/9780974707723),*  
+3rd ed (Roberts & Co, 2005).
+
+- E. H. Duke and S. R. Aguirre  
+*[3D Imaging: Theory, Technology and Applications, Computer Science, Technology and Applications](https://www.proquest.com/legacydocview/EBC/3018197?accountid=14548),*  
+(Nova Science Publishers, 2010).
+
+- T. Tishko, D. Tishko, and V. P. Titar  
+*[Holographic Microscopy of Phase Microscopic Objects: Theory and Practice](https://doi.org/10.1142/7512),*  
+(World Scientific Publishing Co., 2011).
+
+- M. Mir, B. Bhaduri, R. Wang, R. Zhu, and G. Popescu  
+*[Quantitative Phase Imaging](https://doi.org/10.1016/B978-0-44-459422-8.00003-5),*  
+in Progress in Optics (Elsevier, 2012), 57, pp. 133–217.
+
+- Q. Kemao   
+*[Windowed Fringe Pattern Analysis](https://doi.org/10.1117/3.1002080),*  
+(SPIE, 2013).
+
+
+- B. Javidi, E. Tajahuerce, and P. Andres  
+*[Multi-Dimensional Imaging](https://ieeexplore.ieee.org/servlet/opac?bknumber=6798070),*  
+(Cambridge University Press, (John Wiley & Sons Inc, 2014).
+
+- T.-C. Poon and J.-P. Liu  
+*[Introduction to Modern Digital Holography: With MATLAB](https://doi.org/10.1017/CBO9781139061346),*  
+(Cambridge University Press, 2014).
+
+- M. Servín, J. Antonio Quiroga, J. Moisés Padilla, J. A. Quiroga, J. M. Padilla, and J. M. Padilla  
+*[Fringe Pattern Analysis for Optical Metrology: Theory, Algorithms, and Applications](https://www.wiley.com/en-us/Fringe+Pattern+Analysis+for+Optical+Metrology:+Theory,+Algorithms,+and+Applications-p-9783527411528),*  
+(Wiley-VCH, 2014).
+
+- K. Khare  
+*[Fourier Optics and Computational Imaging](https://doi.org/10.1002/9781118900352),*  
+(John Wiley & Sons, Ltd., 2016).
+
+- A. Bhandari, A. Kadambi, and R. Raskar  
+*[Computational Imaging](https://mitpress.mit.edu/9780262046473/computational-imaging/),*  
+(The MIT Press, 2022).
+
+- C. Liu, S. Wang, and S. P. Veetil  
+*[Computational Optical Phase Imaging, Progress in Optical Science and Photonics](https://link.springer.com/book/10.1007/978-981-19-1641-0),*  
+(Springer Singapore, 2022), 21.
+
+
+
 
 ****
 <a name="DT"></a>
