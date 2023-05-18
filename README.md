@@ -398,6 +398,9 @@ Key words: holography etc.
 - [‪Hans-Werner Fink](https://www.physik.uzh.ch/groups/fink/)(University of Zurich)  
 Key words: electron holography etc.
 
+- [Sylvain Gigan](https://www.lkb.upmc.fr/opticalimaging/)(Sorbonne Université)  
+Key words: imaging through scattering media etc.
+
 - [Maxime Jacquot ](https://www.femto-st.fr/en/femto-people/maximejacquot)(Université Bourgogne Franche-Comté)  
 Key words: holography etc.
 
