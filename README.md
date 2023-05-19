@@ -3,7 +3,7 @@
 ## Table of Contents:
 - [Contributing](#contributing)
 
-- [Research groups/organizations](#groups)
+- [Researchers or research groups](#groups)
    - [Americas](#groups-Americas)
    - [Asia](#groups-Asia)
    - [Europe](#groups-Europe)
@@ -38,7 +38,7 @@ Please use the following guidelines:
  
 ****
 <a name="groups"></a>
-# Research groups/organizations
+# Researchers or research groups
 (In alphabetical order according to surnames)  
 (Quick search with "Ctrl + F")
 <a name="groups-Americas"></a>
