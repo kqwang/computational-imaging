@@ -1,4 +1,4 @@
-# Resources for computational imaging and phase imaging / phase acquisition
+# Resources for computational imaging (CI) and phase acquisition (PA)
 ****
 ## Table of Contents:
 - [Contributing](#contributing)
