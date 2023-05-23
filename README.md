@@ -3,7 +3,7 @@
 ## Table of Contents:
 - [Contributing](#contributing)
 
-- [Researchers or research groups](#groups)
+- [People and groups](#groups)
    - [Americas](#groups-Americas)
    - [Asia](#groups-Asia)
    - [Europe](#groups-Europe)
@@ -20,7 +20,7 @@
  
 - [Books](#BK)  
  
-- [Dissertations & Theses](#DT)  
+- [Dissertations & Thesis](#DT)  
 
 ****
    
@@ -38,7 +38,7 @@ Please use the following guidelines:
  
 ****
 <a name="groups"></a>
-# Researchers or research groups
+# People and groups
 (In alphabetical order according to surnames)  
 (Quick search with "Ctrl + F")
 <a name="groups-Americas"></a>
@@ -664,7 +664,7 @@ in Progress in Optics (Elsevier, 2012), 57, pp. 133–217.
 
 ****
 <a name="DT"></a>
-# Dissertations & Theses
+# Dissertations & Thesis
 (In chronological order)
 
 - George Barbastathis,  
