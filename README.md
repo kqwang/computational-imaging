@@ -16,11 +16,11 @@
 
 - [Review / Tutorial papers](#papers)  
    - [Computational imaging](#CPpapers)   
-   - [Computational imaging & deep learning](#DLpapers)       
+   - [Computational imaging and deep learning](#DLpapers)       
  
 - [Books](#BK)  
  
-- [Dissertations & Thesis](#DT)  
+- [Dissertations and Thesis](#DT)  
 
 ****
    
@@ -543,7 +543,7 @@ ACS Nano 16(8), 11516–11544 (2022).
 ACS Photonics 10(2), 322–339 (2023).
 
 <a name="DLpapers"></a>
-## Computational imaging & deep learning
+## Computational imaging and deep learning
 
 - Y. Jo, H. Cho, S. Y. Lee, G. Choi, G. Kim, H. Min, and Y. Park  
 *[Quantitative Phase Imaging and Artificial Intelligence: A Review](https://doi.org/10.1109/JSTQE.2018.2859234),*  
@@ -664,7 +664,7 @@ in Progress in Optics (Elsevier, 2012), 57, pp. 133–217.
 
 ****
 <a name="DT"></a>
-# Dissertations & Thesis
+# Dissertations and Thesis
 (In chronological order)
 
 - George Barbastathis,  
