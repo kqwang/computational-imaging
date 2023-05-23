@@ -1,8 +1,6 @@
 # Resources for computational imaging (CI) and phase acquisition (PA)
 ****
 ## Table of Contents:
-- [Contributing](#contributing)
-
 - [People and groups](#groups)
    - [Americas](#groups-Americas)
    - [Asia](#groups-Asia)
@@ -22,21 +20,10 @@
  
 - [Dissertations and Thesis](#DT)  
 
-- [Contributors](#Contributors)  
+- [Contributing](#contributing)
 
-****
-   
-<a name="contributing"></a>
-# Contributing
 
-You are welcome to add or modify some content (categories or lists, etc.) via the ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).  
 
-Please use the following guidelines:
-- Edit the raw file with [Markdown Syntax](https://www.markdownguide.org/basic-syntax/).
-- Avoid typos.
-- Don't add what's already there.
-- Uniform the format of new additions with that of the existing.
-- Note the order of new additions (chronological or alphabetical).  
  
 ****
 <a name="groups"></a>
@@ -810,9 +797,20 @@ Ph.D. Thesis, Mississippi State University, 2022. [PDF](https://scholarsjunction
 Ph.D. Thesis, Boston University, 2023.
 
 ****
-<a name="Contributors"></a>
-# Contributors
+   
+<a name="contributing"></a>
+# Contributing
 
+You are welcome to add or modify some content (categories or lists, etc.) via the ["fork and pull request"](https://docs.github.com/en/get-started/quickstart/contributing-to-projects).  
+
+Please use the following guidelines:
+- Edit the raw file with [Markdown Syntax](https://www.markdownguide.org/basic-syntax/).
+- Avoid typos.
+- Don't add what's already there.
+- Uniform the format of new additions with that of the existing.
+- Note the order of new additions (chronological or alphabetical).  
+
+### Contributors  
 This project exists thanks to all the people who contribute.  
 
 <a href="https://github.com/kqwang/Phase_unwrapping_by_U-Net/graphs/contributors">
