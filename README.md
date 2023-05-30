@@ -615,6 +615,11 @@ Adv. Photon. Nexus 1(1), 014001 (2022).
 *[Phase Retrieval: From Computational Imaging to Machine Learning: A tutorial](https://doi.org/10.1109/MSP.2022.3219240),*  
 IEEE Signal Process. Mag. 40(1), 45–57 (2023).
 
+- B. Bai, X. Yang, Y. Li, Y. Zhang, N. Pillar, and A. Ozcan  
+*[Deep learning-enabled virtual histological staining of biological samples](https://doi.org/10.1038/s41377-023-01104-7),*  
+Light Sci Appl 12(1), 57 (2023).
+
+
 ****
 <a name="BK"></a>
 # Books
