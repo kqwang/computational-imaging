@@ -198,7 +198,7 @@ Key words: wavefront sensing, imaging through scattering media, and lensless ima
 Key words: non-line-of-sight imaging and single-photon imaging etc.
 
 - [Laura Waller ](https://www.laurawaller.com/)(University of California, Berkeley)  
-Key words: computational imaging, phase imgaing, lensless imaging etc.
+Key words: computational imaging, phase imaging, lensless imaging etc.
 
 - [Lihong Wang ](http://coilab.caltech.edu/)(California Institute of Technology)  
 Key words: biomedical imaging and optical coherence tomography etc.
