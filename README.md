@@ -2,18 +2,18 @@
 ****
 ## Table of Contents:
 
-- [Americas](#groups-Americas)
-- [Asia](#groups-Asia)
-- [Europe](#groups-Europe)
+- [Americas](#groups-americas)
+- [Asia](#groups-asia)
+- [Europe](#groups-europe)
+- [Oceania](#groups-oceania)
 - [Contributing](#contributing)
-
 
 ****
 <a name="groups"></a>
 # People and groups
 (In alphabetical order according to surnames)  
 (Quick search with "Ctrl + F")
-<a name="groups-Americas"></a>
+<a name="groups-americas"></a>
 ## Americas
 - [George Barbastathis ](http://optics.mit.edu/)(Massachusetts Institute of Technology)   
 Key words: computational imaging, phase imaging, and tomographic imaging etc.
@@ -186,7 +186,7 @@ Key words: Fourier ptychography etc.
 - [Xiaowei Zhuang ](http://zhuang.harvard.edu/)(Harvard University)  
 Key words: biomedical imaging and super-resolution imaging etc.
     
-<a name="groups-Asia"></a>
+<a name="groups-asia"></a>
 ## Asia
 - [Anand Asundi ](https://www.doptron.com/)(d'Optron Pte Ltd)   
 Key words: optical 3D measurement and imaging etc.
@@ -350,7 +350,7 @@ Key words: biomedical imaging and phase imaging etc.
 - [Chao Zuo ](https://www.scilaboratory.com/)(Nanjing University of Science and Technology‍)  
 Key words: computational imaging and phase imaging etc.
     
-<a name="groups-Europe"></a>
+<a name="groups-europe"></a>
 ## Europe
 - [Balpreet Singh Ahluwalia ](https://en.uit.no/ansatte/person?p_document_id=44202)(UiT The Arctic University of Norway)  
 Key words: biomedical imaging and super-resolution imaging etc.
@@ -405,6 +405,18 @@ Key words: biomedical imaging and super-resolution imaging etc.
 
 - [Michael Unser ](http://bigwww.epfl.ch/)(The École polytechnique fédérale de Lausanne)  
 Key words: biomedical imaging etc.
+
+<a name="groups-oceania"></a> 
+## Oceania
+- [Rainer Leitgeb ](https://mpbmt.meduniwien.ac.at/en/about-us/research-groups/leitgeb-drexler-group/)(Medical University of Vienna)  
+Keywords: holography and biomedical imaging etc.
+
+- [David Paganin ](https://www.monash.edu/science/schools/physics/research/research-areas?a=64532)(Monash University)  
+Keywords: phase retrieval, coherent diffractive imaging, and phase imaging etc.
+
+- [Konstantin Pavlov ](https://www.canterbury.ac.nz/science/contact-us/people/konstantin-pavlov.html)(University of Canterbury)  
+Keywords: phase retrieval and coherent diffractive imaging etc.  
+
 
 ****
    
