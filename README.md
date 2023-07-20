@@ -1,7 +1,7 @@
 # Researchers and groups about computational imaging
 ****
 ## Table of Contents:
-
+(In alphabetical order)
 - [Americas](#groups-americas)
 - [Asia](#groups-asia)
 - [Europe](#groups-europe)
