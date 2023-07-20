@@ -36,13 +36,13 @@ Key words: computational imaging and computed tomography etc.
 - [Katherine (Katie) L. Bouman ](https://computationalcameras.org/)(California Institute of Technology)  
 Key words: computational imaging, tomography, and ["Event Horizon Telescope"](https://eventhorizontelescope.org/) etc. 
 
-- [David J. Brady ](https://disp.duke.edu/) (Duke University)  
+- [David J. Brady ](https://disp.duke.edu/)(Duke University)  
 Key words: computational imaging and compressive imaging etc.
 
-- [Stanley H. Chan ](https://engineering.purdue.edu/ChanGroup/) (Purdue University)  
+- [Stanley H. Chan ](https://engineering.purdue.edu/ChanGroup/)(Purdue University)  
 Key words: computational imaging, imaging through atmospheric turbulence and photon-limited imaging etc.
 
-- [Ni Chen ](https://ni-chen.github.io)(University of Arizona)  
+- [Ni Chen ](https://ni-chen.github.io/)(University of Arizona)  
 Key words: holography, phase imaging, and light field imaging etc.
 
 - [Steven Chu](https://physics.stanford.edu/people/steven-chu)(Stanford University)  
@@ -290,7 +290,7 @@ Key words: polarimetric imaging etc.
 - [Joseph Rosen ](https://www.ee.bgu.ac.il/~rosen/)(Ben-Gurion University of the Negev)  
 Key words: holography etc.
 
-- [Natan T. Shaked](http://www.eng.tau.ac.il/~omni/index2.php/) (Tel Aviv University)  
+- [Natan T. Shaked ](http://www.eng.tau.ac.il/~omni/index2.php/)(Tel Aviv University)  
 Key words: biomedical imaging, interferometry, and tomography etc.
 
 - [Xiaopeng Shao ](https://web.xidian.edu.cn/xpshao/)(Xidian University)  
@@ -302,10 +302,10 @@ Key words: computational photography etc.
 - [Guohai Situ ](https://people.ucas.edu.cn/~situ)(University of Chinese Academy of Sciences)  
 Key words: computational imaging, phase imaging, single-pixel imaging and holography etc.
 
-- [Baoqing Sun](https://faculty.sdu.edu.cn/sunbaoqing/zh_CN/index/686049/list/index.htm)(Shandong University)  
+- [Baoqing Sun ](https://faculty.sdu.edu.cn/sunbaoqing/zh_CN/index/686049/list/index.htm)(Shandong University)  
 Key words: single-pixel imaging etc.
 
-- [Xiaodi Tan](http://www.io-lab.cn/)(Fujian Normal University)  
+- [Xiaodi Tan ](http://www.io-lab.cn/)(Fujian Normal University)  
 Key words: holography etc.
 
 - [Chao Tian ](http://staff.ustc.edu.cn/~ctian/i)(University of Science and Technology of China)  
@@ -361,16 +361,16 @@ Key words: phase imaging and holography etc.
 - [Kishan Dholakia ](https://opticalmanipulationgroup.wp.st-andrews.ac.uk/)(The University of St Andrews)  
 Key words: computational imaging, light sheet microscopy, and speckle metrology etc.
 
-- [‪Daniele Faccio](https://www.physics.gla.ac.uk/XtremeLight/)(University of Glasgow)  
+- [‪Daniele Faccio ](https://www.physics.gla.ac.uk/XtremeLight/)(University of Glasgow)  
 Key words: computational imaging, ghost imaging and imaging through scattering media etc.
 
-- [‪Pietro Ferraro](https://scholar.google.com/citations?user=yyFkAiQAAAAJ&hl=en)(Consiglio Nazionale delle Ricerche)  
+- [‪Pietro Ferraro ](https://scholar.google.com/citations?user=yyFkAiQAAAAJ&hl=en)(Consiglio Nazionale delle Ricerche)  
 Key words: holography etc.
 
-- [‪Hans-Werner Fink](https://www.physik.uzh.ch/groups/fink/)(University of Zurich)  
+- [‪Hans-Werner Fink ](https://www.physik.uzh.ch/groups/fink/)(University of Zurich)  
 Key words: electron holography etc.
 
-- [Sylvain Gigan](https://www.lkb.upmc.fr/opticalimaging/)(Sorbonne Université)  
+- [Sylvain Gigan ](https://www.lkb.upmc.fr/opticalimaging/)(Sorbonne Université)  
 Key words: imaging through scattering media etc.
 
 - [Maxime Jacquot ](https://www.femto-st.fr/en/femto-people/maximejacquot)(Université Bourgogne Franche-Comté)  
