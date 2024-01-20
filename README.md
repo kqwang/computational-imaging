@@ -44,7 +44,7 @@ Key words: computational imaging and compressive imaging etc.
 Key words: computational imaging, imaging through atmospheric turbulence and photon-limited imaging etc.
 
 - [Ni Chen ](https://ni-chen.github.io/)(University of Arizona)  
-Key words: holography, phase imaging, and light field imaging etc.
+Key words: differentiable optical imaging, differentiable holography, coherent diffraction imaging, phase imaging and microscopy etc.
 
 - [Steven Chu](https://physics.stanford.edu/people/steven-chu)(Stanford University)  
 Key works: biomedical imaging etc.
