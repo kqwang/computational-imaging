@@ -178,6 +178,9 @@ Key words: computational imaging and 3D imaging etc.
 - [Changhuei Yang ](https://biophot.caltech.edu/)(California Institute of Technology)  
 Key words: Fourier ptychography, wavefront shaping and non-line-of-sight imaging etc.
 
+- [Weijian Yang ](https://www.ece.ucdavis.edu/~wejyang/)(University of California, Davis)  
+Key words: computational imaging and 3D imaging etc.
+
 - [Sixian You ](https://sixianyou.mit.edu/)(Massachusetts Institute of Technology)  
 Key words: biomedical imaging and multiphoton imaging etc.
 
