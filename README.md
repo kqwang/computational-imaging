@@ -243,6 +243,12 @@ Key words: quantum imaging etc.
 - [Hua Huang ](https://vmcl.bit.edu.cn/)(Beijing Institute of Technology)  
 Key words: computational photography etc.
 
+- [Mooseok Jang ](https://mooolab.kaist.ac.kr/)(KAIST)  
+Key words: phase retrieval and holography etc.
+
+- [Chulmin Joo ](https://cii-yonsei.com/)(Yonsei University)  
+Key words: phase imaging and biomedical imaging etc.
+
 - [Lingjie Kone ](http://faculty.dpi.tsinghua.edu.cn/home/konglj)(Tsinghua University)  
 Key words: biomedical imaging etc.
 
@@ -254,6 +260,9 @@ Key words: computational imaging and holography etc.
 
 - [Ming Lei ](http://www.opticaltweezers.net/)(Xi'an Jiaotong University)  
 Key words: super-resolution imaging and optical trapping etc. 
+
+- [Tong Ling ](https://www.tonglinglab.com/)(Nanyang Technological University)  
+Key words: phase imaging and biomedical imaging etc.
 
 - [Cheng Liu ](http://science.jiangnan.edu.cn/content_js.jsp?urltype=news.NewsContentUrl&wbtreeid=1034&wbnewsid=5799)(Jiangnan University)  
 Key words: phase imaging etc.   
